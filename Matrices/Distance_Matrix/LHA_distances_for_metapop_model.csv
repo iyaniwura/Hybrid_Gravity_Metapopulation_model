@@ -1,0 +1,3231 @@
+LHA_1,LHA_2,DIST
+Fernie,Grand Forks,256032.335
+Fernie,Trail,202773.79
+Fernie,Kettle Valley,292480.939
+Fernie,Castlegar,195313.483
+Fernie,Creston,123313.534
+Fernie,Revelstoke,272965.554
+Fernie,Golden,233240.914
+Fernie,Windermere,123399.196
+Fernie,Arrow Lakes,203873.061
+Fernie,Kootenay Lake,146108.535
+Fernie,Nelson,170090.232
+Fernie,Kimberley,71605.6536
+Fernie,Cranbrook,55956.8001
+Fernie,Cranbrook,55956.8001
+Cranbrook,Central Okanagan,270805.957
+Cranbrook,Central Okanagan,270805.957
+Cranbrook,Vernon,262932.882
+Cranbrook,Vernon,262932.882
+Cranbrook,Armstrong/Spallumcheen,267371.56
+Cranbrook,Armstrong/Spallumcheen,267371.56
+Cranbrook,Enderby,267733.086
+Cranbrook,Enderby,267733.086
+Cranbrook,Salmon Arm,285503.659
+Cranbrook,Salmon Arm,285503.659
+Cranbrook,Southern Okanagan,275528.285
+Cranbrook,Southern Okanagan,275528.285
+Cranbrook,Grand Forks,200075.938
+Cranbrook,Grand Forks,200075.938
+Cranbrook,Keremeos,300085.698
+Cranbrook,Keremeos,300085.698
+Cranbrook,Trail,146882.943
+Cranbrook,Trail,146882.943
+Cranbrook,Kettle Valley,237232.296
+Cranbrook,Kettle Valley,237232.296
+Cranbrook,Summerland,282322.132
+Cranbrook,Summerland,282322.132
+Cranbrook,Penticton,276402.332
+Cranbrook,Penticton,276402.332
+Cranbrook,Castlegar,139560.932
+Cranbrook,Castlegar,139560.932
+Cranbrook,Creston,70128.7257
+Cranbrook,Creston,70128.7257
+Cranbrook,Revelstoke,239678.939
+Cranbrook,Revelstoke,239678.939
+Cranbrook,Golden,218321.131
+Cranbrook,Golden,218321.131
+Cranbrook,Windermere,114199.509
+Cranbrook,Windermere,114199.509
+Cranbrook,Arrow Lakes,158155.778
+Cranbrook,Arrow Lakes,158155.778
+Cranbrook,Kootenay Lake,98949.2963
+Cranbrook,Kootenay Lake,98949.2963
+Cranbrook,Nelson,115163.71
+Cranbrook,Nelson,115163.71
+Cranbrook,Kimberley,26138.4989
+Cranbrook,Kimberley,26138.4989
+Cranbrook,Fernie,55956.8001
+Cranbrook,Fernie,55956.8001
+Kimberley,Central Okanagan,251031.511
+Kimberley,Vernon,240532.692
+Kimberley,Armstrong/Spallumcheen,244030.321
+Kimberley,Enderby,243509.683
+Kimberley,Salmon Arm,260947.566
+Kimberley,Southern Okanagan,261748.768
+Kimberley,Grand Forks,189680.974
+Kimberley,Keremeos,285241.828
+Kimberley,Trail,138593.765
+Kimberley,Kettle Valley,222557.036
+Kimberley,Summerland,264773.603
+Kimberley,Penticton,259794.504
+Kimberley,Castlegar,127452.753
+Kimberley,Creston,73791.1352
+Kimberley,Revelstoke,213635.946
+Kimberley,Golden,193659.616
+Kimberley,Windermere,92750.7832
+Kimberley,Arrow Lakes,134407.646
+Kimberley,Kootenay Lake,75551.7172
+Kimberley,Nelson,100346.535
+Kimberley,Cranbrook,26138.4989
+Kimberley,Cranbrook,26138.4989
+Kimberley,Fernie,71605.6536
+Windermere,Central Okanagan,255208.24
+Windermere,Vernon,229218.485
+Windermere,Armstrong/Spallumcheen,225187.879
+Windermere,Enderby,216782.401
+Windermere,Salmon Arm,229490.282
+Windermere,Kamloops,300486.745
+Windermere,North Thompson,305324.756
+Windermere,Southern Okanagan,292228.4
+Windermere,Grand Forks,237183.968
+Windermere,Trail,197487.786
+Windermere,Kettle Valley,252491.799
+Windermere,Summerland,279210.073
+Windermere,Penticton,278855.415
+Windermere,Castlegar,177917.595
+Windermere,Creston,159984.909
+Windermere,Revelstoke,161062.22
+Windermere,Golden,109849.127
+Windermere,Arrow Lakes,128809.738
+Windermere,Kootenay Lake,97360.4829
+Windermere,Nelson,148700.978
+Windermere,Kimberley,92750.7832
+Windermere,Cranbrook,114199.509
+Windermere,Cranbrook,114199.509
+Windermere,Fernie,123399.196
+Creston,Central Okanagan,230469.511
+Creston,Vernon,233517.682
+Creston,Armstrong/Spallumcheen,242605.352
+Creston,Enderby,248324.709
+Creston,Salmon Arm,267796.15
+Creston,Southern Okanagan,218995.856
+Creston,Grand Forks,139312.089
+Creston,Keremeos,245308.087
+Creston,Princeton,291549.996
+Creston,Trail,85172.4709
+Creston,Kettle Valley,183664.665
+Creston,Summerland,234674.669
+Creston,Penticton,226372.806
+Creston,Castlegar,86298.4837
+Creston,Revelstoke,241306.718
+Creston,Golden,246758.32
+Creston,Windermere,159984.909
+Creston,Arrow Lakes,143282.384
+Creston,Kootenay Lake,93677.7863
+Creston,Nelson,73419.1148
+Creston,Kimberley,73791.1352
+Creston,Cranbrook,70128.7257
+Creston,Cranbrook,70128.7257
+Creston,Fernie,123313.534
+Golden,Merritt,300520.489
+Golden,Central Okanagan,238562.231
+Golden,Vernon,198833.491
+Golden,Armstrong/Spallumcheen,186191.676
+Golden,Enderby,169468.933
+Golden,Salmon Arm,173243.608
+Golden,Kamloops,241636.515
+Golden,North Thompson,211955.838
+Golden,100 Mile House,298388.526
+Golden,Southern Okanagan,300791.222
+Golden,Grand Forks,272818.589
+Golden,Trail,251805.286
+Golden,Kettle Valley,266187.679
+Golden,Summerland,270838.648
+Golden,Penticton,275951.628
+Golden,Castlegar,228271.252
+Golden,Creston,246758.32
+Golden,Revelstoke,92944.3839
+Golden,Windermere,109849.127
+Golden,Arrow Lakes,142881.665
+Golden,Kootenay Lake,157713.779
+Golden,Nelson,205355.759
+Golden,Kimberley,193659.616
+Golden,Cranbrook,218321.131
+Golden,Cranbrook,218321.131
+Golden,Fernie,233240.914
+Kootenay Lake,Merritt,271843.694
+Kootenay Lake,Central Okanagan,177887.256
+Kootenay Lake,Vernon,165047.515
+Kootenay Lake,Armstrong/Spallumcheen,168582.609
+Kootenay Lake,Enderby,168868.012
+Kootenay Lake,Salmon Arm,186878.399
+Kootenay Lake,Kamloops,250444.642
+Kootenay Lake,North Thompson,292257.409
+Kootenay Lake,Southern Okanagan,199910.177
+Kootenay Lake,Grand Forks,139947.373
+Kootenay Lake,Keremeos,220555.466
+Kootenay Lake,Princeton,255174.5
+Kootenay Lake,Trail,101787.298
+Kootenay Lake,Kettle Valley,159823.283
+Kootenay Lake,Summerland,195068.161
+Kootenay Lake,Penticton,191941.279
+Kootenay Lake,Castlegar,80943.3629
+Kootenay Lake,Creston,93677.7863
+Kootenay Lake,Revelstoke,148961.517
+Kootenay Lake,Golden,157713.779
+Kootenay Lake,Windermere,97360.4829
+Kootenay Lake,Arrow Lakes,59208.7054
+Kootenay Lake,Nelson,52492.7342
+Kootenay Lake,Kimberley,75551.7172
+Kootenay Lake,Cranbrook,98949.2963
+Kootenay Lake,Cranbrook,98949.2963
+Kootenay Lake,Fernie,146108.535
+Nelson,Hope,296271.55
+Nelson,Merritt,256020.888
+Nelson,Central Okanagan,159228.793
+Nelson,Vernon,160103.115
+Nelson,Armstrong/Spallumcheen,169390.658
+Nelson,Enderby,175982.443
+Nelson,Salmon Arm,195675.961
+Nelson,Kamloops,249667.384
+Nelson,Southern Okanagan,161419.217
+Nelson,Grand Forks,91768.9823
+Nelson,Keremeos,185250.361
+Nelson,Princeton,226725.345
+Nelson,Trail,49294.7202
+Nelson,Kettle Valley,122432.918
+Nelson,Summerland,167652.553
+Nelson,Penticton,161305.409
+Nelson,Castlegar,29646.2451
+Nelson,Creston,73419.1148
+Nelson,Revelstoke,178530.203
+Nelson,Golden,205355.759
+Nelson,Windermere,148700.978
+Nelson,Arrow Lakes,76815.0589
+Nelson,Kootenay Lake,52492.7342
+Nelson,Kimberley,100346.535
+Nelson,Cranbrook,115163.71
+Nelson,Cranbrook,115163.71
+Nelson,Fernie,170090.232
+Castlegar,Agassiz/Harrison,301727.333
+Castlegar,Hope,274339.399
+Castlegar,Merritt,241433.572
+Castlegar,South Cariboo,301961.904
+Castlegar,Central Okanagan,145419.461
+Castlegar,Vernon,154337.666
+Castlegar,Armstrong/Spallumcheen,166515.789
+Castlegar,Enderby,176404.517
+Castlegar,Salmon Arm,196341.582
+Castlegar,Kamloops,243576.449
+Castlegar,Southern Okanagan,136090.241
+Castlegar,Grand Forks,62640.1263
+Castlegar,Keremeos,161230.206
+Castlegar,Princeton,205733.736
+Castlegar,Trail,23782.5602
+Castlegar,Kettle Valley,98640.9847
+Castlegar,Summerland,148389.943
+Castlegar,Penticton,140350.676
+Castlegar,Creston,86298.4837
+Castlegar,Revelstoke,191254.75
+Castlegar,Golden,228271.252
+Castlegar,Windermere,177917.595
+Castlegar,Arrow Lakes,91022.0699
+Castlegar,Kootenay Lake,80943.3629
+Castlegar,Nelson,29646.2451
+Castlegar,Kimberley,127452.753
+Castlegar,Cranbrook,139560.932
+Castlegar,Cranbrook,139560.932
+Castlegar,Fernie,195313.483
+Arrow Lakes,Hope,278124.623
+Arrow Lakes,Merritt,216967.702
+Arrow Lakes,South Cariboo,263596.853
+Arrow Lakes,Central Okanagan,127120.175
+Arrow Lakes,Vernon,107600.97
+Arrow Lakes,Armstrong/Spallumcheen,109685.194
+Arrow Lakes,Enderby,109735.922
+Arrow Lakes,Salmon Arm,128013.361
+Arrow Lakes,Kamloops,191384.027
+Arrow Lakes,North Thompson,237447.302
+Arrow Lakes,100 Mile House,298669.375
+Arrow Lakes,Southern Okanagan,167365.801
+Arrow Lakes,Grand Forks,129937.484
+Arrow Lakes,Keremeos,182840.796
+Arrow Lakes,Princeton,209156.016
+Arrow Lakes,Trail,114658.76
+Arrow Lakes,Kettle Valley,129122.052
+Arrow Lakes,Summerland,150449.812
+Arrow Lakes,Penticton,150637.959
+Arrow Lakes,Castlegar,91022.0699
+Arrow Lakes,Creston,143282.384
+Arrow Lakes,Revelstoke,101788.326
+Arrow Lakes,Golden,142881.665
+Arrow Lakes,Windermere,128809.738
+Arrow Lakes,Kootenay Lake,59208.7054
+Arrow Lakes,Nelson,76815.0589
+Arrow Lakes,Kimberley,134407.646
+Arrow Lakes,Cranbrook,158155.778
+Arrow Lakes,Cranbrook,158155.778
+Arrow Lakes,Fernie,203873.061
+Trail,Agassiz/Harrison,301647
+Trail,Hope,275366.262
+Trail,Merritt,250268.26
+Trail,Central Okanagan,156239.233
+Trail,Vernon,170544.944
+Trail,Armstrong/Spallumcheen,184145.211
+Trail,Enderby,195532.323
+Trail,Salmon Arm,215412.387
+Trail,Kamloops,258650.906
+Trail,Southern Okanagan,134056.511
+Trail,Grand Forks,54222.5094
+Trail,Keremeos,160716.048
+Trail,Princeton,208513.69
+Trail,Kettle Valley,100314.831
+Trail,Summerland,154057.35
+Trail,Penticton,144309.645
+Trail,Castlegar,23782.5602
+Trail,Creston,85172.4709
+Trail,Revelstoke,214331.244
+Trail,Golden,251805.286
+Trail,Windermere,197487.786
+Trail,Arrow Lakes,114658.76
+Trail,Kootenay Lake,101787.298
+Trail,Nelson,49294.7202
+Trail,Kimberley,138593.765
+Trail,Cranbrook,146882.943
+Trail,Cranbrook,146882.943
+Trail,Fernie,202773.79
+Grand Forks,Maple Ridge/Pitt Meadows,305400.296
+Grand Forks,Abbotsford,284102.855
+Grand Forks,Chilliwack,257158.963
+Grand Forks,Mission,283237.993
+Grand Forks,Agassiz/Harrison,248724.087
+Grand Forks,Hope,223219.864
+Grand Forks,Merritt,207343.67
+Grand Forks,South Cariboo,273209.923
+Grand Forks,Central Okanagan,120156.562
+Grand Forks,Vernon,146606.325
+Grand Forks,Armstrong/Spallumcheen,163643.459
+Grand Forks,Enderby,179470.54
+Grand Forks,Salmon Arm,198274.294
+Grand Forks,Kamloops,228224.868
+Grand Forks,Southern Okanagan,81066.6126
+Grand Forks,Keremeos,108364.404
+Grand Forks,Princeton,158355.69
+Grand Forks,Trail,54222.5094
+Grand Forks,Kettle Valley,52845.2765
+Grand Forks,Summerland,108851.479
+Grand Forks,Penticton,97082.9695
+Grand Forks,Castlegar,62640.1263
+Grand Forks,Creston,139312.089
+Grand Forks,Revelstoke,217501.059
+Grand Forks,Golden,272818.589
+Grand Forks,Windermere,237183.968
+Grand Forks,Arrow Lakes,129937.484
+Grand Forks,Kootenay Lake,139947.373
+Grand Forks,Nelson,91768.9823
+Grand Forks,Kimberley,189680.974
+Grand Forks,Cranbrook,200075.938
+Grand Forks,Cranbrook,200075.938
+Grand Forks,Fernie,256032.335
+Kettle Valley,Howe Sound,297498.467
+Kettle Valley,West Vancouver/Bowen Island,303505.952
+Kettle Valley,Vancouver - Westside,302077.976
+Kettle Valley,Richmond,299843.308
+Kettle Valley,Vancouver - City Centre,298443.678
+Kettle Valley,Vancouver - South,295610.328
+Kettle Valley,Vancouver - Midtown,296080.029
+Kettle Valley,Vancouver - Centre North,295032.108
+Kettle Valley,North Vancouver,292973.709
+Kettle Valley,Vancouver - Northeast,292641.255
+Kettle Valley,Burnaby,287284.312
+Kettle Valley,New Westminster,283652.017
+Kettle Valley,Surrey,276246.06
+Kettle Valley,Tri-Cities,275168.933
+Kettle Valley,Maple Ridge/Pitt Meadows,260664.086
+Kettle Valley,Delta,288345.042
+Kettle Valley,South Surrey/White Rock,277069.947
+Kettle Valley,Langley,263299.09
+Kettle Valley,Abbotsford,241476.392
+Kettle Valley,Chilliwack,213641.502
+Kettle Valley,Mission,239262.662
+Kettle Valley,Agassiz/Harrison,203089.728
+Kettle Valley,Hope,175887.013
+Kettle Valley,Merritt,154511.645
+Kettle Valley,South Cariboo,220661.012
+Kettle Valley,Lillooet,268975.564
+Kettle Valley,Central Okanagan,71052.0816
+Kettle Valley,Vernon,105617.762
+Kettle Valley,Armstrong/Spallumcheen,124409.445
+Kettle Valley,Enderby,143053.763
+Kettle Valley,Salmon Arm,159941.744
+Kettle Valley,Kamloops,179645.578
+Kettle Valley,North Thompson,278554.044
+Kettle Valley,100 Mile House,304511.948
+Kettle Valley,Southern Okanagan,40087.5239
+Kettle Valley,Grand Forks,52845.2765
+Kettle Valley,Keremeos,62856.1595
+Kettle Valley,Princeton,108221.924
+Kettle Valley,Trail,100314.831
+Kettle Valley,Summerland,56006.7504
+Kettle Valley,Penticton,44576.922
+Kettle Valley,Castlegar,98640.9847
+Kettle Valley,Creston,183664.665
+Kettle Valley,Revelstoke,196134.973
+Kettle Valley,Golden,266187.679
+Kettle Valley,Windermere,252491.799
+Kettle Valley,Arrow Lakes,129122.052
+Kettle Valley,Kootenay Lake,159823.283
+Kettle Valley,Nelson,122432.918
+Kettle Valley,Kimberley,222557.036
+Kettle Valley,Cranbrook,237232.296
+Kettle Valley,Cranbrook,237232.296
+Kettle Valley,Fernie,292480.939
+Southern Okanagan,Southern Gulf Islands,289725.322
+Southern Okanagan,Saanich Peninsula,292367.784
+Southern Okanagan,Greater Victoria,293357.757
+Southern Okanagan,Sunshine Coast,305649.146
+Southern Okanagan,Howe Sound,267938.613
+Southern Okanagan,West Vancouver/Bowen Island,268522.949
+Southern Okanagan,Vancouver - Westside,266380.755
+Southern Okanagan,Richmond,263487.795
+Southern Okanagan,Vancouver - City Centre,262915.848
+Southern Okanagan,Vancouver - South,259657.497
+Southern Okanagan,Vancouver - Midtown,260355.681
+Southern Okanagan,Vancouver - Centre North,259499.495
+Southern Okanagan,North Vancouver,257836.254
+Southern Okanagan,Vancouver - Northeast,256937.894
+Southern Okanagan,Burnaby,251502.886
+Southern Okanagan,New Westminster,247598.483
+Southern Okanagan,Surrey,239754.105
+Southern Okanagan,Tri-Cities,239587.388
+Southern Okanagan,Maple Ridge/Pitt Meadows,224643.245
+Southern Okanagan,Delta,251627.637
+Southern Okanagan,South Surrey/White Rock,239815.777
+Southern Okanagan,Langley,226477.619
+Southern Okanagan,Abbotsford,204090.95
+Southern Okanagan,Chilliwack,176727.744
+Southern Okanagan,Mission,202687.066
+Southern Okanagan,Agassiz/Harrison,167725.891
+Southern Okanagan,Hope,142224.507
+Southern Okanagan,Merritt,139311.966
+Southern Okanagan,South Cariboo,207553.84
+Southern Okanagan,Lillooet,251702.918
+Southern Okanagan,Central Okanagan,80169.9085
+Southern Okanagan,Vernon,123228.634
+Southern Okanagan,Armstrong/Spallumcheen,142494.254
+Southern Okanagan,Enderby,162864.977
+Southern Okanagan,Salmon Arm,176997.742
+Southern Okanagan,Kamloops,180938.786
+Southern Okanagan,North Thompson,289450.206
+Southern Okanagan,100 Mile House,303615.598
+Southern Okanagan,Grand Forks,81066.6126
+Southern Okanagan,Keremeos,27644.0154
+Southern Okanagan,Princeton,79773.2739
+Southern Okanagan,Trail,134056.511
+Southern Okanagan,Kettle Valley,40087.5239
+Southern Okanagan,Summerland,49165.3583
+Southern Okanagan,Penticton,35717.2776
+Southern Okanagan,Castlegar,136090.241
+Southern Okanagan,Creston,218995.856
+Southern Okanagan,Revelstoke,225031.865
+Southern Okanagan,Golden,300791.222
+Southern Okanagan,Windermere,292228.4
+Southern Okanagan,Arrow Lakes,167365.801
+Southern Okanagan,Kootenay Lake,199910.177
+Southern Okanagan,Nelson,161419.217
+Southern Okanagan,Kimberley,261748.768
+Southern Okanagan,Cranbrook,275528.285
+Southern Okanagan,Cranbrook,275528.285
+Penticton,Southern Gulf Islands,290795.422
+Penticton,Saanich Peninsula,296966.844
+Penticton,Greater Victoria,299838.154
+Penticton,Sunshine Coast,298276.765
+Penticton,Howe Sound,253676.653
+Penticton,West Vancouver/Bowen Island,262784.602
+Penticton,Vancouver - Westside,262084.153
+Penticton,Richmond,260631.791
+Penticton,Vancouver - City Centre,258285.831
+Penticton,Vancouver - South,255934.591
+Penticton,Vancouver - Midtown,256144.75
+Penticton,Vancouver - Centre North,254895.692
+Penticton,North Vancouver,252447.046
+Penticton,Vancouver - Northeast,252700.178
+Penticton,Burnaby,247457.433
+Penticton,New Westminster,244158.514
+Penticton,Surrey,237345.567
+Penticton,Tri-Cities,235190.196
+Penticton,Maple Ridge/Pitt Meadows,221275.945
+Penticton,Delta,249674.946
+Penticton,South Surrey/White Rock,239268.883
+Penticton,Langley,224940.758
+Penticton,Abbotsford,204179.628
+Penticton,Chilliwack,175894.737
+Penticton,Mission,200755.466
+Penticton,Agassiz/Harrison,163476.005
+Penticton,Hope,135004.721
+Penticton,Merritt,111097.839
+Penticton,South Cariboo,178331.021
+Penticton,Lillooet,225378.174
+Penticton,Central Okanagan,45319.121400000004
+Penticton,Vernon,89574.344
+Penticton,Armstrong/Spallumcheen,108618.925
+Penticton,Enderby,129303.38
+Penticton,Salmon Arm,142420.401
+Penticton,Kamloops,145897.204
+Penticton,North Thompson,253745.162
+Penticton,100 Mile House,269409.129
+Penticton,Southern Okanagan,35717.2776
+Penticton,Grand Forks,97082.9695
+Penticton,Keremeos,34124.4525
+Penticton,Princeton,65512.9938
+Penticton,Trail,144309.645
+Penticton,Kettle Valley,44576.922
+Penticton,Summerland,13978.0009
+Penticton,Castlegar,140350.676
+Penticton,Creston,226372.806
+Penticton,Revelstoke,195493.259
+Penticton,Golden,275951.628
+Penticton,Windermere,278855.415
+Penticton,Arrow Lakes,150637.959
+Penticton,Kootenay Lake,191941.279
+Penticton,Nelson,161305.409
+Penticton,Kimberley,259794.504
+Penticton,Cranbrook,276402.332
+Penticton,Cranbrook,276402.332
+Keremeos,Cowichan Valley North,288888.354
+Keremeos,Cowichan Valley South,282247.274
+Keremeos,Southern Gulf Islands,264819.361
+Keremeos,Saanich Peninsula,268850.078
+Keremeos,Greater Victoria,270694.564
+Keremeos,Western Communities,285325.598
+Keremeos,Sunshine Coast,278573.764
+Keremeos,Howe Sound,240297.382
+Keremeos,West Vancouver/Bowen Island,241702.38
+Keremeos,Greater Nanaimo,298249.644
+Keremeos,Vancouver - Westside,239866.697
+Keremeos,Richmond,237324.993
+Keremeos,Vancouver - City Centre,236320.513
+Keremeos,Vancouver - South,233268.268
+Keremeos,Vancouver - Midtown,233851.577
+Keremeos,Vancouver - Centre North,232904.46
+Keremeos,North Vancouver,231070.312
+Keremeos,Vancouver - Northeast,230421.754
+Keremeos,Burnaby,225021.942
+Keremeos,New Westminster,221256.503
+Keremeos,Surrey,213663.595
+Keremeos,Tri-Cities,213003.022
+Keremeos,Maple Ridge/Pitt Meadows,198269.861
+Keremeos,Delta,225688.587
+Keremeos,South Surrey/White Rock,214269.259
+Keremeos,Langley,200599.586
+Keremeos,Abbotsford,178645.596
+Keremeos,Chilliwack,150890.74
+Keremeos,Mission,176629.596
+Keremeos,Agassiz/Harrison,140976.692
+Keremeos,Hope,114873.454
+Keremeos,Merritt,116379.626
+Keremeos,South Cariboo,184557.975
+Keremeos,Lillooet,226725.188
+Keremeos,Central Okanagan,76848.7245
+Keremeos,Vernon,121637.002
+Keremeos,Armstrong/Spallumcheen,140230.982
+Keremeos,Enderby,161076.023
+Keremeos,Salmon Arm,172731.966
+Keremeos,Kamloops,166063.932
+Keremeos,North Thompson,278935.048
+Keremeos,100 Mile House,285841.611
+Keremeos,Southern Okanagan,27644.0154
+Keremeos,Grand Forks,108364.404
+Keremeos,Princeton,52725.6156
+Keremeos,Trail,160716.048
+Keremeos,Kettle Valley,62856.1595
+Keremeos,Summerland,41951.4589
+Keremeos,Penticton,34124.4525
+Keremeos,Castlegar,161230.206
+Keremeos,Creston,245308.087
+Keremeos,Revelstoke,229217.531
+Keremeos,Arrow Lakes,182840.796
+Keremeos,Kootenay Lake,220555.466
+Keremeos,Nelson,185250.361
+Keremeos,Kimberley,285241.828
+Keremeos,Cranbrook,300085.698
+Keremeos,Cranbrook,300085.698
+Princeton,Cowichan Valley North,249190.979
+Princeton,Cowichan Valley West,274253.157
+Princeton,Cowichan Valley South,246502.68
+Princeton,Southern Gulf Islands,228158.419
+Princeton,Saanich Peninsula,236779.913
+Princeton,Greater Victoria,241248.15
+Princeton,Western Communities,255154.88
+Princeton,Powell River,292970.601
+Princeton,Sunshine Coast,232782.807
+Princeton,Howe Sound,189524.849
+Princeton,West Vancouver/Bowen Island,197525.654
+Princeton,Oceanside,282814.299
+Princeton,Greater Nanaimo,255769.967
+Princeton,Vancouver - Westside,197175.343
+Princeton,Richmond,196220.392
+Princeton,Vancouver - City Centre,193295.484
+Princeton,Vancouver - South,191229.62
+Princeton,Vancouver - Midtown,191282.553
+Princeton,Vancouver - Centre North,189923.683
+Princeton,North Vancouver,187284.65
+Princeton,Vancouver - Northeast,187842.892
+Princeton,Burnaby,182682.249
+Princeton,New Westminster,179609.819
+Princeton,Surrey,173262.959
+Princeton,Tri-Cities,170357.371
+Princeton,Maple Ridge/Pitt Meadows,156898.453
+Princeton,Delta,185713.525
+Princeton,South Surrey/White Rock,176121.33
+Princeton,Langley,161392.125
+Princeton,Abbotsford,141896.323
+Princeton,Chilliwack,113560.108
+Princeton,Mission,137274.697
+Princeton,Agassiz/Harrison,99343.5933
+Princeton,Hope,70070.603
+Princeton,Merritt,70828.6476
+Princeton,South Cariboo,136788.596
+Princeton,Lillooet,175524.916
+Princeton,Central Okanagan,84139.895
+Princeton,Vernon,122536.077
+Princeton,Armstrong/Spallumcheen,137551.573
+Princeton,Enderby,157337.116
+Princeton,Salmon Arm,163288.595
+Princeton,Kamloops,135433.305
+Princeton,North Thompson,252865.261
+Princeton,100 Mile House,246029.734
+Princeton,Southern Okanagan,79773.2739
+Princeton,Grand Forks,158355.69
+Princeton,Keremeos,52725.6156
+Princeton,Trail,208513.69
+Princeton,Kettle Valley,108221.924
+Princeton,Summerland,60126.6803
+Princeton,Penticton,65512.9938
+Princeton,Castlegar,205733.736
+Princeton,Creston,291549.996
+Princeton,Revelstoke,232892.739
+Princeton,Arrow Lakes,209156.016
+Princeton,Kootenay Lake,255174.5
+Princeton,Nelson,226725.345
+Armstrong/Spallumcheen,Howe Sound,278348.816
+Armstrong/Spallumcheen,Vancouver - Centre North,306138.9
+Armstrong/Spallumcheen,North Vancouver,301949.051
+Armstrong/Spallumcheen,Vancouver - Northeast,305019.199
+Armstrong/Spallumcheen,Burnaby,300679.578
+Armstrong/Spallumcheen,New Westminster,299106.416
+Armstrong/Spallumcheen,Surrey,295279.249
+Armstrong/Spallumcheen,Tri-Cities,288652.838
+Armstrong/Spallumcheen,Maple Ridge/Pitt Meadows,278484.79
+Armstrong/Spallumcheen,South Surrey/White Rock,301229.89
+Armstrong/Spallumcheen,Langley,285932.205
+Armstrong/Spallumcheen,Abbotsford,270605.961
+Armstrong/Spallumcheen,Chilliwack,243590.664
+Armstrong/Spallumcheen,Mission,263279.03
+Armstrong/Spallumcheen,Agassiz/Harrison,225894.53
+Armstrong/Spallumcheen,Hope,196403.404
+Armstrong/Spallumcheen,Merritt,117136.69
+Armstrong/Spallumcheen,South Cariboo,154792.202
+Armstrong/Spallumcheen,Lillooet,208046.473
+Armstrong/Spallumcheen,Cariboo/Chilcotin,280894.996
+Armstrong/Spallumcheen,Central Okanagan,63525.8174
+Armstrong/Spallumcheen,Vernon,19302.4112
+Armstrong/Spallumcheen,Enderby,20857.0296
+Armstrong/Spallumcheen,Salmon Arm,35532.2983
+Armstrong/Spallumcheen,Kamloops,81974.0794
+Armstrong/Spallumcheen,North Thompson,155808.351
+Armstrong/Spallumcheen,100 Mile House,197303.039
+Armstrong/Spallumcheen,Southern Okanagan,142494.254
+Armstrong/Spallumcheen,Grand Forks,163643.459
+Armstrong/Spallumcheen,Keremeos,140230.982
+Armstrong/Spallumcheen,Princeton,137551.573
+Armstrong/Spallumcheen,Trail,184145.211
+Armstrong/Spallumcheen,Kettle Valley,124409.445
+Armstrong/Spallumcheen,Summerland,98306.57
+Armstrong/Spallumcheen,Penticton,108618.925
+Armstrong/Spallumcheen,Castlegar,166515.789
+Armstrong/Spallumcheen,Creston,242605.352
+Armstrong/Spallumcheen,Revelstoke,95645.0597
+Armstrong/Spallumcheen,Golden,186191.676
+Armstrong/Spallumcheen,Windermere,225187.879
+Armstrong/Spallumcheen,Arrow Lakes,109685.194
+Armstrong/Spallumcheen,Kootenay Lake,168582.609
+Armstrong/Spallumcheen,Nelson,169390.658
+Armstrong/Spallumcheen,Kimberley,244030.321
+Armstrong/Spallumcheen,Cranbrook,267371.56
+Armstrong/Spallumcheen,Cranbrook,267371.56
+Vernon,Howe Sound,273711.962
+Vernon,West Vancouver/Bowen Island,302275.791
+Vernon,Vancouver - Westside,304640.168
+Vernon,Richmond,306192.824
+Vernon,Vancouver - City Centre,300374.462
+Vernon,Vancouver - South,300021.311
+Vernon,Vancouver - Midtown,299224.461
+Vernon,Vancouver - Centre North,297242.189
+Vernon,North Vancouver,293309.655
+Vernon,Vancouver - Northeast,295932.616
+Vernon,Burnaby,291405.52
+Vernon,New Westminster,289530.957
+Vernon,Surrey,285175.329
+Vernon,Tri-Cities,279232.806
+Vernon,Maple Ridge/Pitt Meadows,268350.182
+Vernon,Delta,297635.128
+Vernon,South Surrey/White Rock,290506.703
+Vernon,Langley,275244.121
+Vernon,Abbotsford,258897.18
+Vernon,Chilliwack,231406.949
+Vernon,Mission,252128.943
+Vernon,Agassiz/Harrison,214311.844
+Vernon,Hope,184484.473
+Vernon,Merritt,111130.648
+Vernon,South Cariboo,156574.407
+Vernon,Lillooet,209964.871
+Vernon,Cariboo/Chilcotin,293178.326
+Vernon,Central Okanagan,44788.4951
+Vernon,Armstrong/Spallumcheen,19302.4112
+Vernon,Enderby,39741.6032
+Vernon,Salmon Arm,54554.0163
+Vernon,Kamloops,89672.9673
+Vernon,North Thompson,173529.127
+Vernon,100 Mile House,210026.84
+Vernon,Southern Okanagan,123228.634
+Vernon,Grand Forks,146606.325
+Vernon,Keremeos,121637.002
+Vernon,Princeton,122536.077
+Vernon,Trail,170544.944
+Vernon,Kettle Valley,105617.762
+Vernon,Summerland,79688.5003
+Vernon,Penticton,89574.344
+Vernon,Castlegar,154337.666
+Vernon,Creston,233517.682
+Vernon,Revelstoke,110690.964
+Vernon,Golden,198833.491
+Vernon,Windermere,229218.485
+Vernon,Arrow Lakes,107600.97
+Vernon,Kootenay Lake,165047.515
+Vernon,Nelson,160103.115
+Vernon,Kimberley,240532.692
+Vernon,Cranbrook,262932.882
+Vernon,Cranbrook,262932.882
+Central Okanagan,Howe Sound,255353.515
+Central Okanagan,West Vancouver/Bowen Island,275403.208
+Central Okanagan,Vancouver - Westside,276454.07
+Central Okanagan,Richmond,276727.397
+Central Okanagan,Vancouver - City Centre,272349.053
+Central Okanagan,Vancouver - South,271129.384
+Central Okanagan,Vancouver - Midtown,270758.547
+Central Okanagan,Vancouver - Centre North,269073.3
+Central Okanagan,North Vancouver,265744.029
+Central Okanagan,Vancouver - Northeast,267367.528
+Central Okanagan,Burnaby,262485.716
+Central Okanagan,New Westminster,259982.436
+Central Okanagan,Surrey,254541.324
+Central Okanagan,Tri-Cities,250138.876
+Central Okanagan,Maple Ridge/Pitt Meadows,237844.239
+Central Okanagan,Delta,267070.394
+Central Okanagan,South Surrey/White Rock,258504.775
+Central Okanagan,Langley,243473.035
+Central Okanagan,Abbotsford,225148.042
+Central Okanagan,Chilliwack,196985.756
+Central Okanagan,Mission,219643.91
+Central Okanagan,Agassiz/Harrison,181447.981
+Central Okanagan,Hope,151474.273
+Central Okanagan,Merritt,96794.3694
+Central Okanagan,South Cariboo,156917.376
+Central Okanagan,Lillooet,208289.278
+Central Okanagan,Vernon,44788.4951
+Central Okanagan,Armstrong/Spallumcheen,63525.8174
+Central Okanagan,Enderby,84324.6742
+Central Okanagan,Salmon Arm,97105.8895
+Central Okanagan,Kamloops,108683.815
+Central Okanagan,North Thompson,210370.066
+Central Okanagan,100 Mile House,233567.455
+Central Okanagan,Southern Okanagan,80169.9085
+Central Okanagan,Grand Forks,120156.562
+Central Okanagan,Keremeos,76848.7245
+Central Okanagan,Princeton,84139.895
+Central Okanagan,Trail,156239.233
+Central Okanagan,Kettle Valley,71052.0816
+Central Okanagan,Summerland,34902.9104
+Central Okanagan,Penticton,45319.121400000004
+Central Okanagan,Castlegar,145419.461
+Central Okanagan,Creston,230469.511
+Central Okanagan,Revelstoke,153744.286
+Central Okanagan,Golden,238562.231
+Central Okanagan,Windermere,255208.24
+Central Okanagan,Arrow Lakes,127120.175
+Central Okanagan,Kootenay Lake,177887.256
+Central Okanagan,Nelson,159228.793
+Central Okanagan,Kimberley,251031.511
+Central Okanagan,Cranbrook,270805.957
+Central Okanagan,Cranbrook,270805.957
+Summerland,Cowichan Valley South,306079.129
+Summerland,Southern Gulf Islands,287876.717
+Summerland,Saanich Peninsula,295391.772
+Summerland,Greater Victoria,298990.094
+Summerland,Sunshine Coast,292148.509
+Summerland,Howe Sound,245213.992
+Summerland,West Vancouver/Bowen Island,257402.038
+Summerland,Vancouver - Westside,257246.602
+Summerland,Richmond,256346.218
+Summerland,Vancouver - City Centre,253340.558
+Summerland,Vancouver - South,251343.361
+Summerland,Vancouver - Midtown,251367.953
+Summerland,Vancouver - Centre North,249976.752
+Summerland,North Vancouver,247244.427
+Summerland,Vancouver - Northeast,247930.38
+Summerland,Burnaby,242787.401
+Summerland,New Westminster,239735.866
+Summerland,Surrey,233354.495
+Summerland,Tri-Cities,230454.87
+Summerland,Maple Ridge/Pitt Meadows,217019.592
+Summerland,Delta,245788.88
+Summerland,South Surrey/White Rock,235979.813
+Summerland,Langley,221361.039
+Summerland,Abbotsford,201380.182
+Summerland,Chilliwack,173007.055
+Summerland,Mission,197203.684
+Summerland,Agassiz/Harrison,159405.521
+Summerland,Hope,130190.22
+Summerland,Merritt,98550.6781
+Summerland,South Cariboo,165232.258
+Summerland,Lillooet,213002.3
+Summerland,Central Okanagan,34902.9104
+Summerland,Vernon,79688.5003
+Summerland,Armstrong/Spallumcheen,98306.57
+Summerland,Enderby,119142.802
+Summerland,Salmon Arm,131194.185
+Summerland,Kamloops,132009.442
+Summerland,North Thompson,240679.205
+Summerland,100 Mile House,255432.78
+Summerland,Southern Okanagan,49165.3583
+Summerland,Grand Forks,108851.479
+Summerland,Keremeos,41951.4589
+Summerland,Princeton,60126.6803
+Summerland,Trail,154057.35
+Summerland,Kettle Valley,56006.7504
+Summerland,Penticton,13978.0009
+Summerland,Castlegar,148389.943
+Summerland,Creston,234674.669
+Summerland,Revelstoke,187969.056
+Summerland,Golden,270838.648
+Summerland,Windermere,279210.073
+Summerland,Arrow Lakes,150449.812
+Summerland,Kootenay Lake,195068.161
+Summerland,Nelson,167652.553
+Summerland,Kimberley,264773.603
+Summerland,Cranbrook,282322.132
+Summerland,Cranbrook,282322.132
+Enderby,Howe Sound,290057.745
+Enderby,Tri-Cities,304345.877
+Enderby,Maple Ridge/Pitt Meadows,294752.656
+Enderby,Langley,302599.014
+Enderby,Abbotsford,288045.597
+Enderby,Chilliwack,261417.872
+Enderby,Mission,280335.193
+Enderby,Agassiz/Harrison,243354.142
+Enderby,Hope,214186.012
+Enderby,Merritt,131326.554
+Enderby,South Cariboo,161387.689
+Enderby,Lillooet,213876.701
+Enderby,Cariboo/Chilcotin,273952.426
+Enderby,Central Okanagan,84324.6742
+Enderby,Vernon,39741.6032
+Enderby,Armstrong/Spallumcheen,20857.0296
+Enderby,Salmon Arm,19937.1651
+Enderby,Kamloops,84270.7171
+Enderby,North Thompson,140808.938
+Enderby,100 Mile House,190262.764
+Enderby,Southern Okanagan,162864.977
+Enderby,Grand Forks,179470.54
+Enderby,Keremeos,161076.023
+Enderby,Princeton,157337.116
+Enderby,Trail,195532.323
+Enderby,Kettle Valley,143053.763
+Enderby,Summerland,119142.802
+Enderby,Penticton,129303.38
+Enderby,Castlegar,176404.517
+Enderby,Creston,248324.709
+Enderby,Revelstoke,77385.8292
+Enderby,Golden,169468.933
+Enderby,Windermere,216782.401
+Enderby,Arrow Lakes,109735.922
+Enderby,Kootenay Lake,168868.012
+Enderby,Nelson,175982.443
+Enderby,Kimberley,243509.683
+Enderby,Cranbrook,267733.086
+Enderby,Cranbrook,267733.086
+Revelstoke,Hope,291521.009
+Revelstoke,Merritt,207773.087
+Revelstoke,South Cariboo,228802.471
+Revelstoke,Lillooet,278553.183
+Revelstoke,Cariboo/Chilcotin,303382.571
+Revelstoke,Central Okanagan,153744.286
+Revelstoke,Vernon,110690.964
+Revelstoke,Armstrong/Spallumcheen,95645.0597
+Revelstoke,Enderby,77385.8292
+Revelstoke,Salmon Arm,80350.1612
+Revelstoke,Kamloops,149841.327
+Revelstoke,North Thompson,147581.275
+Revelstoke,100 Mile House,223892.6
+Revelstoke,Southern Okanagan,225031.865
+Revelstoke,Grand Forks,217501.059
+Revelstoke,Keremeos,229217.531
+Revelstoke,Princeton,232892.739
+Revelstoke,Trail,214331.244
+Revelstoke,Kettle Valley,196134.973
+Revelstoke,Summerland,187969.056
+Revelstoke,Penticton,195493.259
+Revelstoke,Castlegar,191254.75
+Revelstoke,Creston,241306.718
+Revelstoke,Golden,92944.3839
+Revelstoke,Windermere,161062.22
+Revelstoke,Arrow Lakes,101788.326
+Revelstoke,Kootenay Lake,148961.517
+Revelstoke,Nelson,178530.203
+Revelstoke,Kimberley,213635.946
+Revelstoke,Cranbrook,239678.939
+Revelstoke,Cranbrook,239678.939
+Revelstoke,Fernie,272965.554
+Salmon Arm,Howe Sound,282867.391
+Salmon Arm,Tri-Cities,301955.518
+Salmon Arm,Maple Ridge/Pitt Meadows,293228.791
+Salmon Arm,Langley,301650.151
+Salmon Arm,Abbotsford,288397.29
+Salmon Arm,Chilliwack,262549.595
+Salmon Arm,Mission,280085.64
+Salmon Arm,Agassiz/Harrison,243940.896
+Salmon Arm,Hope,215500.115
+Salmon Arm,Merritt,128473.01
+Salmon Arm,South Cariboo,150272.046
+Salmon Arm,Lillooet,201660.67
+Salmon Arm,Cariboo/Chilcotin,254629.682
+Salmon Arm,Central Okanagan,97105.8895
+Salmon Arm,Vernon,54554.0163
+Salmon Arm,Armstrong/Spallumcheen,35532.2983
+Salmon Arm,Enderby,19937.1651
+Salmon Arm,Kamloops,71451.7929
+Salmon Arm,North Thompson,121375.962
+Salmon Arm,100 Mile House,171018.059
+Salmon Arm,Southern Okanagan,176997.742
+Salmon Arm,Grand Forks,198274.294
+Salmon Arm,Keremeos,172731.966
+Salmon Arm,Princeton,163288.595
+Salmon Arm,Trail,215412.387
+Salmon Arm,Kettle Valley,159941.744
+Salmon Arm,Summerland,131194.185
+Salmon Arm,Penticton,142420.401
+Salmon Arm,Castlegar,196341.582
+Salmon Arm,Creston,267796.15
+Salmon Arm,Revelstoke,80350.1612
+Salmon Arm,Golden,173243.608
+Salmon Arm,Windermere,229490.282
+Salmon Arm,Arrow Lakes,128013.361
+Salmon Arm,Kootenay Lake,186878.399
+Salmon Arm,Nelson,195675.961
+Salmon Arm,Kimberley,260947.566
+Salmon Arm,Cranbrook,285503.659
+Salmon Arm,Cranbrook,285503.659
+Kamloops,Sunshine Coast,281129.83
+Kamloops,Howe Sound,214591.39
+Kamloops,West Vancouver/Bowen Island,258487.113
+Kamloops,Vancouver - Westside,263714.894
+Kamloops,Richmond,268219.603
+Kamloops,Vancouver - City Centre,259319.953
+Kamloops,Vancouver - South,261024.686
+Kamloops,Vancouver - Midtown,259265.985
+Kamloops,Vancouver - Centre North,256705.61
+Kamloops,North Vancouver,251616.049
+Kamloops,Vancouver - Northeast,256404.286
+Kamloops,Burnaby,252999.036
+Kamloops,New Westminster,252762.155
+Kamloops,Surrey,251389.654
+Kamloops,Tri-Cities,242047.389
+Kamloops,Maple Ridge/Pitt Meadows,235441.719
+Kamloops,Quesnel,295132.61
+Kamloops,Delta,262881.562
+Kamloops,South Surrey/White Rock,259917.288
+Kamloops,Langley,245086.722
+Kamloops,Abbotsford,235411.735
+Kamloops,Chilliwack,212398.196
+Kamloops,Mission,225721.468
+Kamloops,Agassiz/Harrison,192882.094
+Kamloops,Hope,167780.452
+Kamloops,Merritt,75874.5974
+Kamloops,South Cariboo,79052.5317
+Kamloops,Lillooet,130244.168
+Kamloops,Cariboo/Chilcotin,206168.952
+Kamloops,Central Okanagan,108683.815
+Kamloops,Vernon,89672.9673
+Kamloops,Armstrong/Spallumcheen,81974.0794
+Kamloops,Enderby,84270.7171
+Kamloops,Salmon Arm,71451.7929
+Kamloops,North Thompson,117668.552
+Kamloops,100 Mile House,124884.044
+Kamloops,Southern Okanagan,180938.786
+Kamloops,Grand Forks,228224.868
+Kamloops,Keremeos,166063.932
+Kamloops,Princeton,135433.305
+Kamloops,Trail,258650.906
+Kamloops,Kettle Valley,179645.578
+Kamloops,Summerland,132009.442
+Kamloops,Penticton,145897.204
+Kamloops,Castlegar,243576.449
+Kamloops,Revelstoke,149841.327
+Kamloops,Golden,241636.515
+Kamloops,Windermere,300486.745
+Kamloops,Arrow Lakes,191384.027
+Kamloops,Kootenay Lake,250444.642
+Kamloops,Nelson,249667.384
+100 Mile House,Sunshine Coast,300322.904
+100 Mile House,Howe Sound,231093.854
+100 Mile House,West Vancouver/Bowen Island,292996.993
+100 Mile House,Vancouver - Westside,301748.144
+100 Mile House,Vancouver - City Centre,297819.491
+100 Mile House,Vancouver - South,302267.02
+100 Mile House,Vancouver - Midtown,299380.165
+100 Mile House,Vancouver - Centre North,296365.555
+100 Mile House,North Vancouver,290368.999
+100 Mile House,Vancouver - Northeast,297575.351
+100 Mile House,Burnaby,296296.828
+100 Mile House,New Westminster,298389.414
+100 Mile House,Surrey,301269.385
+100 Mile House,Tri-Cities,288794.776
+100 Mile House,Maple Ridge/Pitt Meadows,288979.896
+100 Mile House,Prince George,274378.426
+100 Mile House,Quesnel,170339.051
+100 Mile House,Langley,300605.814
+100 Mile House,Abbotsford,300377.206
+100 Mile House,Chilliwack,285856.067
+100 Mile House,Mission,288842.268
+100 Mile House,Agassiz/Harrison,267312.891
+100 Mile House,Hope,251870.935
+100 Mile House,Merritt,175603.082
+100 Mile House,South Cariboo,119890.529
+100 Mile House,Lillooet,126005.049
+100 Mile House,Cariboo/Chilcotin,83723.9628
+100 Mile House,Central Okanagan,233567.455
+100 Mile House,Vernon,210026.84
+100 Mile House,Armstrong/Spallumcheen,197303.039
+100 Mile House,Enderby,190262.764
+100 Mile House,Salmon Arm,171018.059
+100 Mile House,Kamloops,124884.044
+100 Mile House,North Thompson,89427.3387
+100 Mile House,Southern Okanagan,303615.598
+100 Mile House,Keremeos,285841.611
+100 Mile House,Princeton,246029.734
+100 Mile House,Kettle Valley,304511.948
+100 Mile House,Summerland,255432.78
+100 Mile House,Penticton,269409.129
+100 Mile House,Revelstoke,223892.6
+100 Mile House,Golden,298388.526
+100 Mile House,Arrow Lakes,298669.375
+North Thompson,Howe Sound,297240.794
+North Thompson,Quesnel,221174.041
+North Thompson,Agassiz/Harrison,304127.444
+North Thompson,Hope,281723.579
+North Thompson,Merritt,191557.053
+North Thompson,South Cariboo,163505.38
+North Thompson,Lillooet,193220.268
+North Thompson,Cariboo/Chilcotin,159265.676
+North Thompson,Central Okanagan,210370.066
+North Thompson,Vernon,173529.127
+North Thompson,Armstrong/Spallumcheen,155808.351
+North Thompson,Enderby,140808.938
+North Thompson,Salmon Arm,121375.962
+North Thompson,Kamloops,117668.552
+North Thompson,100 Mile House,89427.3387
+North Thompson,Southern Okanagan,289450.206
+North Thompson,Keremeos,278935.048
+North Thompson,Princeton,252865.261
+North Thompson,Kettle Valley,278554.044
+North Thompson,Summerland,240679.205
+North Thompson,Penticton,253745.162
+North Thompson,Revelstoke,147581.275
+North Thompson,Golden,211955.838
+North Thompson,Windermere,305324.756
+North Thompson,Arrow Lakes,237447.302
+North Thompson,Kootenay Lake,292257.409
+Cariboo/Chilcotin,Nechako,264483.225
+Cariboo/Chilcotin,Bella Coola Valley,286744.295
+Cariboo/Chilcotin,Powell River,304428.942
+Cariboo/Chilcotin,Howe Sound,253271.49
+Cariboo/Chilcotin,Prince George,206045.665
+Cariboo/Chilcotin,Quesnel,96722.2318
+Cariboo/Chilcotin,Merritt,245797.446
+Cariboo/Chilcotin,South Cariboo,180974.229
+Cariboo/Chilcotin,Lillooet,162452.544
+Cariboo/Chilcotin,Vernon,293178.326
+Cariboo/Chilcotin,Armstrong/Spallumcheen,280894.996
+Cariboo/Chilcotin,Enderby,273952.426
+Cariboo/Chilcotin,Salmon Arm,254629.682
+Cariboo/Chilcotin,Kamloops,206168.952
+Cariboo/Chilcotin,North Thompson,159265.676
+Cariboo/Chilcotin,100 Mile House,83723.9628
+Cariboo/Chilcotin,Revelstoke,303382.571
+Lillooet,Cowichan Valley North,223941.487
+Lillooet,Cowichan Valley West,250248.331
+Lillooet,Cowichan Valley South,241527.747
+Lillooet,Southern Gulf Islands,225024.555
+Lillooet,Saanich Peninsula,250655.485
+Lillooet,Greater Victoria,264057.579
+Lillooet,Western Communities,271246.121
+Lillooet,Greater Campbell River,234345.512
+Lillooet,Comox Valley,231225.293
+Lillooet,Powell River,194636.496
+Lillooet,Sunshine Coast,175732.051
+Lillooet,Howe Sound,105769.742
+Lillooet,West Vancouver/Bowen Island,167012.781
+Lillooet,Alberni/Clayoquot,263372.435
+Lillooet,Oceanside,220569.693
+Lillooet,Greater Nanaimo,212790.974
+Lillooet,Vancouver - Westside,175879.781
+Lillooet,Richmond,184255.187
+Lillooet,Vancouver - City Centre,172008.338
+Lillooet,Vancouver - South,176663.697
+Lillooet,Vancouver - Midtown,173692.027
+Lillooet,Vancouver - Centre North,170662.931
+Lillooet,North Vancouver,164639.82
+Lillooet,Vancouver - Northeast,172014.843
+Lillooet,Burnaby,171025.654
+Lillooet,New Westminster,173454.187
+Lillooet,Surrey,177131.238
+Lillooet,Tri-Cities,164272.854
+Lillooet,Maple Ridge/Pitt Meadows,166189.981
+Lillooet,Quesnel,258005.945
+Lillooet,Delta,184871.814
+Lillooet,South Surrey/White Rock,189024.069
+Lillooet,Langley,178012.582
+Lillooet,Abbotsford,181388.286
+Lillooet,Chilliwack,172318.542
+Lillooet,Mission,169653.566
+Lillooet,Agassiz/Harrison,156130.778
+Lillooet,Hope,150087.472
+Lillooet,Merritt,114464.336
+Lillooet,South Cariboo,53413.4602
+Lillooet,Cariboo/Chilcotin,162452.544
+Lillooet,Central Okanagan,208289.278
+Lillooet,Vernon,209964.871
+Lillooet,Armstrong/Spallumcheen,208046.473
+Lillooet,Enderby,213876.701
+Lillooet,Salmon Arm,201660.67
+Lillooet,Kamloops,130244.168
+Lillooet,North Thompson,193220.268
+Lillooet,100 Mile House,126005.049
+Lillooet,Southern Okanagan,251702.918
+Lillooet,Keremeos,226725.188
+Lillooet,Princeton,175524.916
+Lillooet,Kettle Valley,268975.564
+Lillooet,Summerland,213002.3
+Lillooet,Penticton,225378.174
+Lillooet,Revelstoke,278553.183
+South Cariboo,Cowichan Valley North,249884.511
+South Cariboo,Cowichan Valley West,277200.448
+South Cariboo,Cowichan Valley South,262632.662
+South Cariboo,Southern Gulf Islands,244590.856
+South Cariboo,Saanich Peninsula,266791.535
+South Cariboo,Greater Victoria,278303.205
+South Cariboo,Western Communities,287797.526
+South Cariboo,Greater Campbell River,282670.372
+South Cariboo,Comox Valley,275398.662
+South Cariboo,Powell River,238835.726
+South Cariboo,Sunshine Coast,207749.883
+South Cariboo,Howe Sound,138899.665
+South Cariboo,West Vancouver/Bowen Island,190032.413
+South Cariboo,Alberni/Clayoquot,302147.172
+South Cariboo,Oceanside,256615.357
+South Cariboo,Greater Nanaimo,243150.816
+South Cariboo,Vancouver - Westside,196906.262
+South Cariboo,Richmond,203196.342
+South Cariboo,Vancouver - City Centre,192620.284
+South Cariboo,Vancouver - South,195638.791
+South Cariboo,Vancouver - Midtown,193307.423
+South Cariboo,Vancouver - Centre North,190475.887
+South Cariboo,North Vancouver,184846.511
+South Cariboo,Vancouver - Northeast,190877.847
+South Cariboo,Burnaby,188427.937
+South Cariboo,New Westminster,189368.583
+South Cariboo,Surrey,190257.078
+South Cariboo,Tri-Cities,178985.333
+South Cariboo,Maple Ridge/Pitt Meadows,176068.493
+South Cariboo,Quesnel,277401.345
+South Cariboo,Delta,200379.61
+South Cariboo,South Surrey/White Rock,200644.726
+South Cariboo,Langley,187135.338
+South Cariboo,Abbotsford,183599.339
+South Cariboo,Chilliwack,166882.732
+South Cariboo,Mission,172411.918
+South Cariboo,Agassiz/Harrison,147974.371
+South Cariboo,Hope,132069.433
+South Cariboo,Merritt,68294.3854
+South Cariboo,Lillooet,53413.4602
+South Cariboo,Cariboo/Chilcotin,180974.229
+South Cariboo,Central Okanagan,156917.376
+South Cariboo,Vernon,156574.407
+South Cariboo,Armstrong/Spallumcheen,154792.202
+South Cariboo,Enderby,161387.689
+South Cariboo,Salmon Arm,150272.046
+South Cariboo,Kamloops,79052.5317
+South Cariboo,North Thompson,163505.38
+South Cariboo,100 Mile House,119890.529
+South Cariboo,Southern Okanagan,207553.84
+South Cariboo,Grand Forks,273209.923
+South Cariboo,Keremeos,184557.975
+South Cariboo,Princeton,136788.596
+South Cariboo,Kettle Valley,220661.012
+South Cariboo,Summerland,165232.258
+South Cariboo,Penticton,178331.021
+South Cariboo,Castlegar,301961.904
+South Cariboo,Revelstoke,228802.471
+South Cariboo,Arrow Lakes,263596.853
+Merritt,Cowichan Valley North,252679.079
+Merritt,Cowichan Valley West,279828.277
+Merritt,Cowichan Valley South,258090.377
+Merritt,Southern Gulf Islands,239161.694
+Merritt,Saanich Peninsula,255435.736
+Merritt,Greater Victoria,263845.236
+Merritt,Western Communities,275846.672
+Merritt,Comox Valley,304565.172
+Merritt,Powell River,269515.529
+Merritt,Sunshine Coast,221986.676
+Merritt,Howe Sound,162646.338
+Merritt,West Vancouver/Bowen Island,193947.342
+Merritt,Oceanside,273435.678
+Merritt,Greater Nanaimo,252502.095
+Merritt,Vancouver - Westside,197478.943
+Merritt,Richmond,200403.616
+Merritt,Vancouver - City Centre,193115.409
+Merritt,Vancouver - South,193678.79
+Merritt,Vancouver - Midtown,192432.961
+Merritt,Vancouver - Centre North,190174.305
+Merritt,North Vancouver,185710.311
+Merritt,Vancouver - Northeast,189300.907
+Merritt,Burnaby,185248.264
+Merritt,New Westminster,184161.772
+Merritt,Surrey,181361.479
+Merritt,Tri-Cities,173528.544
+Merritt,Maple Ridge/Pitt Meadows,164824.529
+Merritt,Delta,193425.215
+Merritt,South Surrey/White Rock,188659.09
+Merritt,Langley,173485.817
+Merritt,Abbotsford,161565.154
+Merritt,Chilliwack,137328.146
+Merritt,Mission,152575.374
+Merritt,Agassiz/Harrison,118001.467
+Merritt,Hope,91990.0651
+Merritt,South Cariboo,68294.3854
+Merritt,Lillooet,114464.336
+Merritt,Cariboo/Chilcotin,245797.446
+Merritt,Central Okanagan,96794.3694
+Merritt,Vernon,111130.648
+Merritt,Armstrong/Spallumcheen,117136.69
+Merritt,Enderby,131326.554
+Merritt,Salmon Arm,128473.01
+Merritt,Kamloops,75874.5974
+Merritt,North Thompson,191557.053
+Merritt,100 Mile House,175603.082
+Merritt,Southern Okanagan,139311.966
+Merritt,Grand Forks,207343.67
+Merritt,Keremeos,116379.626
+Merritt,Princeton,70828.6476
+Merritt,Trail,250268.26
+Merritt,Kettle Valley,154511.645
+Merritt,Summerland,98550.6781
+Merritt,Penticton,111097.839
+Merritt,Castlegar,241433.572
+Merritt,Revelstoke,207773.087
+Merritt,Golden,300520.489
+Merritt,Arrow Lakes,216967.702
+Merritt,Kootenay Lake,271843.694
+Merritt,Nelson,256020.888
+Hope,Cowichan Valley North,179269.952
+Hope,Cowichan Valley West,204637.659
+Hope,Cowichan Valley South,177868.378
+Hope,Southern Gulf Islands,159248.809
+Hope,Saanich Peninsula,170344.593
+Hope,Greater Victoria,176625.07
+Hope,Western Communities,189749.286
+Hope,Greater Campbell River,282243.782
+Hope,Comox Valley,257325.473
+Hope,Powell River,227142.451
+Hope,Sunshine Coast,163951.346
+Hope,Howe Sound,128825.717
+Hope,West Vancouver/Bowen Island,127831.389
+Hope,Alberni/Clayoquot,260632.876
+Hope,Oceanside,213308.263
+Hope,Greater Nanaimo,185766.448
+Hope,Vancouver - Westside,127147.815
+Hope,Richmond,126189.468
+Hope,Vancouver - City Centre,123307.435
+Hope,Vancouver - South,121159.479
+Hope,Vancouver - Midtown,121237.717
+Hope,Vancouver - Centre North,119924.554
+Hope,North Vancouver,117448.48
+Hope,Vancouver - Northeast,117795.98
+Hope,Burnaby,112617.282
+Hope,New Westminster,109553.184
+Hope,Surrey,103407.931
+Hope,Tri-Cities,100300.783
+Hope,Maple Ridge/Pitt Meadows,86913.8178
+Hope,Delta,115906.022
+Hope,South Surrey/White Rock,107032.782
+Hope,Langley,92011.0135
+Hope,Abbotsford,74414.8168
+Hope,Chilliwack,47232.2562
+Hope,Mission,68194.6471
+Hope,Agassiz/Harrison,30018.2975
+Hope,Merritt,91990.0651
+Hope,South Cariboo,132069.433
+Hope,Lillooet,150087.472
+Hope,Central Okanagan,151474.273
+Hope,Vernon,184484.473
+Hope,Armstrong/Spallumcheen,196403.404
+Hope,Enderby,214186.012
+Hope,Salmon Arm,215500.115
+Hope,Kamloops,167780.452
+Hope,North Thompson,281723.579
+Hope,100 Mile House,251870.935
+Hope,Southern Okanagan,142224.507
+Hope,Grand Forks,223219.864
+Hope,Keremeos,114873.454
+Hope,Princeton,70070.603
+Hope,Trail,275366.262
+Hope,Kettle Valley,175887.013
+Hope,Summerland,130190.22
+Hope,Penticton,135004.721
+Hope,Castlegar,274339.399
+Hope,Revelstoke,291521.009
+Hope,Arrow Lakes,278124.623
+Hope,Nelson,296271.55
+Chilliwack,Cowichan Valley North,138000.768
+Chilliwack,Cowichan Valley West,161828.814
+Chilliwack,Cowichan Valley South,133072.091
+Chilliwack,Southern Gulf Islands,114939.537
+Chilliwack,Saanich Peninsula,123689.111
+Chilliwack,Greater Victoria,129470.172
+Chilliwack,Western Communities,142762.086
+Chilliwack,Greater Campbell River,257546.43
+Chilliwack,Comox Valley,228125.024
+Chilliwack,Powell River,201882.996
+Chilliwack,Sunshine Coast,133003.874
+Chilliwack,Howe Sound,118319.321
+Chilliwack,West Vancouver/Bowen Island,94483.169
+Chilliwack,Alberni/Clayoquot,224155.916
+Chilliwack,Oceanside,178467.814
+Chilliwack,Greater Nanaimo,148147.117
+Chilliwack,Vancouver - Westside,90682.9043
+Chilliwack,Richmond,86904.3964
+Chilliwack,Vancouver - City Centre,87614.3704
+Chilliwack,Vancouver - South,83577.4996
+Chilliwack,Vancouver - Midtown,84677.6719
+Chilliwack,Vancouver - Centre North,84243.1756
+Chilliwack,North Vancouver,83640.1523
+Chilliwack,Vancouver - Northeast,81348.1691
+Chilliwack,Burnaby,75828.8716
+Chilliwack,New Westminster,71463.7988
+Chilliwack,Surrey,63128.2541
+Chilliwack,Tri-Cities,64636.7001
+Chilliwack,Maple Ridge/Pitt Meadows,48911.9201
+Chilliwack,Delta,74900.2655
+Chilliwack,South Surrey/White Rock,63492.499
+Chilliwack,Langley,49752.5992
+Chilliwack,Abbotsford,28373.7002
+Chilliwack,Mission,26176.3059
+Chilliwack,Agassiz/Harrison,19609.2147
+Chilliwack,Hope,47232.2562
+Chilliwack,Merritt,137328.146
+Chilliwack,South Cariboo,166882.732
+Chilliwack,Lillooet,172318.542
+Chilliwack,Central Okanagan,196985.756
+Chilliwack,Vernon,231406.949
+Chilliwack,Armstrong/Spallumcheen,243590.664
+Chilliwack,Enderby,261417.872
+Chilliwack,Salmon Arm,262549.595
+Chilliwack,Kamloops,212398.196
+Chilliwack,100 Mile House,285856.067
+Chilliwack,Southern Okanagan,176727.744
+Chilliwack,Grand Forks,257158.963
+Chilliwack,Keremeos,150890.74
+Chilliwack,Princeton,113560.108
+Chilliwack,Kettle Valley,213641.502
+Chilliwack,Summerland,173007.055
+Chilliwack,Penticton,175894.737
+Abbotsford,Cowichan Valley North,110473.709
+Abbotsford,Cowichan Valley West,133732.351
+Abbotsford,Cowichan Valley South,104699.42
+Abbotsford,Southern Gulf Islands,86616.4434
+Abbotsford,Saanich Peninsula,95930.9475
+Abbotsford,Greater Victoria,102710.277
+Abbotsford,Western Communities,115481.161
+Abbotsford,Vancouver Island West,302696.937
+Abbotsford,Greater Campbell River,237154.676
+Abbotsford,Comox Valley,205622.653
+Abbotsford,Powell River,181841.032
+Abbotsford,Sunshine Coast,111072.807
+Abbotsford,Howe Sound,110409.249
+Abbotsford,West Vancouver/Bowen Island,72519.4169
+Abbotsford,Alberni/Clayoquot,198153.107
+Abbotsford,Oceanside,153553.282
+Abbotsford,Greater Nanaimo,122165.239
+Abbotsford,Vancouver - Westside,66700.2206
+Abbotsford,Richmond,61151.1686
+Abbotsford,Vancouver - City Centre,64340.4062
+Abbotsford,Vancouver - South,59142.1659
+Abbotsford,Vancouver - Midtown,60931.2266
+Abbotsford,Vancouver - Centre North,61176.1551
+Abbotsford,North Vancouver,62043.2837
+Abbotsford,Vancouver - Northeast,57882.3638
+Abbotsford,Burnaby,52472.9548
+Abbotsford,New Westminster,47376.7168
+Abbotsford,Surrey,37821.1966
+Abbotsford,Tri-Cities,43361.7266
+Abbotsford,Maple Ridge/Pitt Meadows,27997.4463
+Abbotsford,Delta,48420.4655
+Abbotsford,South Surrey/White Rock,35740.3486
+Abbotsford,Langley,23751.7974
+Abbotsford,Chilliwack,28373.7002
+Abbotsford,Mission,11734.7908
+Abbotsford,Agassiz/Harrison,44714.8269
+Abbotsford,Hope,74414.8168
+Abbotsford,Merritt,161565.154
+Abbotsford,South Cariboo,183599.339
+Abbotsford,Lillooet,181388.286
+Abbotsford,Central Okanagan,225148.042
+Abbotsford,Vernon,258897.18
+Abbotsford,Armstrong/Spallumcheen,270605.961
+Abbotsford,Enderby,288045.597
+Abbotsford,Salmon Arm,288397.29
+Abbotsford,Kamloops,235411.735
+Abbotsford,100 Mile House,300377.206
+Abbotsford,Southern Okanagan,204090.95
+Abbotsford,Grand Forks,284102.855
+Abbotsford,Keremeos,178645.596
+Abbotsford,Princeton,141896.323
+Abbotsford,Kettle Valley,241476.392
+Abbotsford,Summerland,201380.182
+Abbotsford,Penticton,204179.628
+Mission,Cowichan Valley North,112515.956
+Mission,Cowichan Valley West,137031.859
+Mission,Cowichan Valley South,109673.736
+Mission,Southern Gulf Islands,91080.3625
+Mission,Saanich Peninsula,103320.398
+Mission,Greater Victoria,111271.045
+Mission,Western Communities,123431.224
+Mission,Vancouver Island West,300001.672
+Mission,Greater Campbell River,232698.829
+Mission,Comox Valley,202479.56
+Mission,Powell River,177127.241
+Mission,Sunshine Coast,107414.674
+Mission,Howe Sound,100647.246
+Mission,West Vancouver/Bowen Island,68755.2697
+Mission,Alberni/Clayoquot,198004.029
+Mission,Oceanside,152308.495
+Mission,Greater Nanaimo,122015.44
+Mission,Vancouver - Westside,64547.9847
+Mission,Richmond,60813.6825
+Mission,Vancouver - City Centre,61565.791
+Mission,Vancouver - South,57404.4696
+Mission,Vancouver - Midtown,58555.6853
+Mission,Vancouver - Centre North,58217.8377
+Mission,North Vancouver,57954.4252
+Mission,Vancouver - Northeast,55251.3601
+Mission,Burnaby,49727.782
+Mission,New Westminster,45291.9512
+Mission,Surrey,37067.121
+Mission,Tri-Cities,38866.5832
+Mission,Maple Ridge/Pitt Meadows,22963.8293
+Mission,Delta,49084.8125
+Mission,South Surrey/White Rock,38892.6119
+Mission,Langley,24187.6853
+Mission,Abbotsford,11734.7908
+Mission,Chilliwack,26176.3059
+Mission,Agassiz/Harrison,38195.9644
+Mission,Hope,68194.6471
+Mission,Merritt,152575.374
+Mission,South Cariboo,172411.918
+Mission,Lillooet,169653.566
+Mission,Central Okanagan,219643.91
+Mission,Vernon,252128.943
+Mission,Armstrong/Spallumcheen,263279.03
+Mission,Enderby,280335.193
+Mission,Salmon Arm,280085.64
+Mission,Kamloops,225721.468
+Mission,100 Mile House,288842.268
+Mission,Southern Okanagan,202687.066
+Mission,Grand Forks,283237.993
+Mission,Keremeos,176629.596
+Mission,Princeton,137274.697
+Mission,Kettle Valley,239262.662
+Mission,Summerland,197203.684
+Mission,Penticton,200755.466
+Agassiz/Harrison,Cowichan Valley North,149896.076
+Agassiz/Harrison,Cowichan Valley West,174936.91
+Agassiz/Harrison,Cowichan Valley South,147863.579
+Agassiz/Harrison,Southern Gulf Islands,129273.137
+Agassiz/Harrison,Saanich Peninsula,140575.015
+Agassiz/Harrison,Greater Victoria,147333.55
+Agassiz/Harrison,Western Communities,160195.597
+Agassiz/Harrison,Greater Campbell River,259951.587
+Agassiz/Harrison,Comox Valley,232795.734
+Agassiz/Harrison,Powell River,204380.187
+Agassiz/Harrison,Sunshine Coast,138214.129
+Agassiz/Harrison,Howe Sound,112993.577
+Agassiz/Harrison,West Vancouver/Bowen Island,100797.585
+Agassiz/Harrison,Alberni/Clayoquot,233003.762
+Agassiz/Harrison,Oceanside,186203.939
+Agassiz/Harrison,Greater Nanaimo,157532.741
+Agassiz/Harrison,Vancouver - Westside,98988.2939
+Agassiz/Harrison,Richmond,97155.8618
+Agassiz/Harrison,Vancouver - City Centre,95373.5954
+Agassiz/Harrison,Vancouver - South,92588.0478
+Agassiz/Harrison,Vancouver - Midtown,92992.22
+Agassiz/Harrison,Vancouver - Centre North,91959.445
+Agassiz/Harrison,North Vancouver,90117.6723
+Agassiz/Harrison,Vancouver - Northeast,89552.5325
+Agassiz/Harrison,Burnaby,84208.7239
+Agassiz/Harrison,New Westminster,80721.5045
+Agassiz/Harrison,Surrey,73961.9127
+Agassiz/Harrison,Tri-Cities,72081.3285
+Agassiz/Harrison,Maple Ridge/Pitt Meadows,57802.7484
+Agassiz/Harrison,Delta,86383.4761
+Agassiz/Harrison,South Surrey/White Rock,77069.0052
+Agassiz/Harrison,Langley,62136.3215
+Agassiz/Harrison,Abbotsford,44714.8269
+Agassiz/Harrison,Chilliwack,19609.2147
+Agassiz/Harrison,Mission,38195.9644
+Agassiz/Harrison,Hope,30018.2975
+Agassiz/Harrison,Merritt,118001.467
+Agassiz/Harrison,South Cariboo,147974.371
+Agassiz/Harrison,Lillooet,156130.778
+Agassiz/Harrison,Central Okanagan,181447.981
+Agassiz/Harrison,Vernon,214311.844
+Agassiz/Harrison,Armstrong/Spallumcheen,225894.53
+Agassiz/Harrison,Enderby,243354.142
+Agassiz/Harrison,Salmon Arm,243940.896
+Agassiz/Harrison,Kamloops,192882.094
+Agassiz/Harrison,North Thompson,304127.444
+Agassiz/Harrison,100 Mile House,267312.891
+Agassiz/Harrison,Southern Okanagan,167725.891
+Agassiz/Harrison,Grand Forks,248724.087
+Agassiz/Harrison,Keremeos,140976.692
+Agassiz/Harrison,Princeton,99343.5933
+Agassiz/Harrison,Trail,301647
+Agassiz/Harrison,Kettle Valley,203089.728
+Agassiz/Harrison,Summerland,159405.521
+Agassiz/Harrison,Penticton,163476.005
+Agassiz/Harrison,Castlegar,301727.333
+New Westminster,Cowichan Valley North,70089.2395
+New Westminster,Cowichan Valley West,96411.7081
+New Westminster,Cowichan Valley South,74522.0336
+New Westminster,Southern Gulf Islands,55836.7021
+New Westminster,Saanich Peninsula,77859.0007
+New Westminster,Greater Victoria,90662.728
+New Westminster,Western Communities,98784.177
+New Westminster,Vancouver Island West,255394.712
+New Westminster,Greater Campbell River,190137.479
+New Westminster,Comox Valley,158246.295
+New Westminster,Powell River,135098.125
+New Westminster,Sunshine Coast,63872.8988
+New Westminster,Howe Sound,80650.3139
+New Westminster,West Vancouver/Bowen Island,25844.569
+New Westminster,Alberni/Clayoquot,152852.353
+New Westminster,Oceanside,107024.606
+New Westminster,Greater Nanaimo,76998.8365
+New Westminster,Vancouver - Westside,19399.0388
+New Westminster,Richmond,16747.6826
+New Westminster,Vancouver - City Centre,17025.4305
+New Westminster,Vancouver - South,12114.3172
+New Westminster,Vancouver - Midtown,13555.4305
+New Westminster,Vancouver - Centre North,14027.3306
+New Westminster,North Vancouver,16612.2201
+New Westminster,Vancouver - Northeast,10580.9415
+New Westminster,Burnaby,5555.33977
+New Westminster,Surrey,10160.8161
+New Westminster,Tri-Cities,10719.0079
+New Westminster,Maple Ridge/Pitt Meadows,22990.2376
+New Westminster,Delta,11417.8641
+New Westminster,South Surrey/White Rock,20687.9838
+New Westminster,Langley,23821.4541
+New Westminster,Abbotsford,47376.7168
+New Westminster,Chilliwack,71463.7988
+New Westminster,Mission,45291.9512
+New Westminster,Agassiz/Harrison,80721.5045
+New Westminster,Hope,109553.184
+New Westminster,Merritt,184161.772
+New Westminster,South Cariboo,189368.583
+New Westminster,Lillooet,173454.187
+New Westminster,Central Okanagan,259982.436
+New Westminster,Vernon,289530.957
+New Westminster,Armstrong/Spallumcheen,299106.416
+New Westminster,Kamloops,252762.155
+New Westminster,100 Mile House,298389.414
+New Westminster,Southern Okanagan,247598.483
+New Westminster,Keremeos,221256.503
+New Westminster,Princeton,179609.819
+New Westminster,Kettle Valley,283652.017
+New Westminster,Summerland,239735.866
+New Westminster,Penticton,244158.514
+Burnaby,Cowichan Valley North,67955.0754
+Burnaby,Cowichan Valley West,94727.536
+Burnaby,Cowichan Valley South,74548.8449
+Burnaby,Southern Gulf Islands,56199.1595
+Burnaby,Saanich Peninsula,79731.3497
+Burnaby,Greater Victoria,93077.3743
+Burnaby,Western Communities,100509.859
+Burnaby,Vancouver Island West,250515.281
+Burnaby,Greater Campbell River,184828.179
+Burnaby,Comox Valley,153230.047
+Burnaby,Powell River,129711.39
+Burnaby,Sunshine Coast,58622.0412
+Burnaby,Howe Sound,76379.4974
+Burnaby,West Vancouver/Bowen Island,20360.4255
+Burnaby,Alberni/Clayoquot,148921.165
+Burnaby,Oceanside,102690.962
+Burnaby,Greater Nanaimo,73326.1168
+Burnaby,Vancouver - Westside,14898.9258
+Burnaby,Richmond,15238.1433
+Burnaby,Vancouver - City Centre,11914.0442
+Burnaby,Vancouver - South,8648.80951
+Burnaby,Vancouver - Midtown,8870.90644
+Burnaby,Vancouver - Centre North,8704.28452
+Burnaby,North Vancouver,11130.9532
+Burnaby,Vancouver - Northeast,5523.80485
+Burnaby,New Westminster,5555.33977
+Burnaby,Surrey,15688.6614
+Burnaby,Tri-Cities,12361.479
+Burnaby,Maple Ridge/Pitt Meadows,26974.4604
+Burnaby,Delta,14750.4263
+Burnaby,South Surrey/White Rock,25981.4547
+Burnaby,Langley,29115.7209
+Burnaby,Abbotsford,52472.9548
+Burnaby,Chilliwack,75828.8716
+Burnaby,Mission,49727.782
+Burnaby,Agassiz/Harrison,84208.7239
+Burnaby,Hope,112617.282
+Burnaby,Merritt,185248.264
+Burnaby,South Cariboo,188427.937
+Burnaby,Lillooet,171025.654
+Burnaby,Central Okanagan,262485.716
+Burnaby,Vernon,291405.52
+Burnaby,Armstrong/Spallumcheen,300679.578
+Burnaby,Kamloops,252999.036
+Burnaby,100 Mile House,296296.828
+Burnaby,Southern Okanagan,251502.886
+Burnaby,Keremeos,225021.942
+Burnaby,Princeton,182682.249
+Burnaby,Kettle Valley,287284.312
+Burnaby,Summerland,242787.401
+Burnaby,Penticton,247457.433
+Maple Ridge/Pitt Meadows,Cowichan Valley North,92365.4162
+Maple Ridge/Pitt Meadows,Cowichan Valley West,118047.54
+Maple Ridge/Pitt Meadows,Cowichan Valley South,93448.7138
+Maple Ridge/Pitt Meadows,Southern Gulf Islands,74509.2891
+Maple Ridge/Pitt Meadows,Saanich Peninsula,91847.9073
+Maple Ridge/Pitt Meadows,Greater Victoria,102396.392
+Maple Ridge/Pitt Meadows,Western Communities,112738.663
+Maple Ridge/Pitt Meadows,Vancouver Island West,277038.97
+Maple Ridge/Pitt Meadows,Greater Campbell River,209998.49
+Maple Ridge/Pitt Meadows,Comox Valley,179521.474
+Maple Ridge/Pitt Meadows,Powell River,154504.019
+Maple Ridge/Pitt Meadows,Sunshine Coast,84478.1505
+Maple Ridge/Pitt Meadows,Howe Sound,84902.0389
+Maple Ridge/Pitt Meadows,West Vancouver/Bowen Island,45801.7245
+Maple Ridge/Pitt Meadows,Alberni/Clayoquot,175778.283
+Maple Ridge/Pitt Meadows,Oceanside,129665.285
+Maple Ridge/Pitt Meadows,Greater Nanaimo,99980.6425
+Maple Ridge/Pitt Meadows,Vancouver - Westside,41868.3192
+Maple Ridge/Pitt Meadows,Richmond,39360.0932
+Maple Ridge/Pitt Meadows,Vancouver - City Centre,38705.5592
+Maple Ridge/Pitt Meadows,Vancouver - South,35014.808
+Maple Ridge/Pitt Meadows,Vancouver - Midtown,35843.7233
+Maple Ridge/Pitt Meadows,Vancouver - Centre North,35331.3175
+Maple Ridge/Pitt Meadows,North Vancouver,35021.3307
+Maple Ridge/Pitt Meadows,Vancouver - Northeast,32477.8969
+Maple Ridge/Pitt Meadows,Burnaby,26974.4604
+Maple Ridge/Pitt Meadows,New Westminster,22990.2376
+Maple Ridge/Pitt Meadows,Surrey,16825.1826
+Maple Ridge/Pitt Meadows,Tri-Cities,15936.6832
+Maple Ridge/Pitt Meadows,Delta,29314.7382
+Maple Ridge/Pitt Meadows,South Surrey/White Rock,24711.4073
+Maple Ridge/Pitt Meadows,Langley,11849.027
+Maple Ridge/Pitt Meadows,Abbotsford,27997.4463
+Maple Ridge/Pitt Meadows,Chilliwack,48911.9201
+Maple Ridge/Pitt Meadows,Mission,22963.8293
+Maple Ridge/Pitt Meadows,Agassiz/Harrison,57802.7484
+Maple Ridge/Pitt Meadows,Hope,86913.8178
+Maple Ridge/Pitt Meadows,Merritt,164824.529
+Maple Ridge/Pitt Meadows,South Cariboo,176068.493
+Maple Ridge/Pitt Meadows,Lillooet,166189.981
+Maple Ridge/Pitt Meadows,Central Okanagan,237844.239
+Maple Ridge/Pitt Meadows,Vernon,268350.182
+Maple Ridge/Pitt Meadows,Armstrong/Spallumcheen,278484.79
+Maple Ridge/Pitt Meadows,Enderby,294752.656
+Maple Ridge/Pitt Meadows,Salmon Arm,293228.791
+Maple Ridge/Pitt Meadows,Kamloops,235441.719
+Maple Ridge/Pitt Meadows,100 Mile House,288979.896
+Maple Ridge/Pitt Meadows,Southern Okanagan,224643.245
+Maple Ridge/Pitt Meadows,Grand Forks,305400.296
+Maple Ridge/Pitt Meadows,Keremeos,198269.861
+Maple Ridge/Pitt Meadows,Princeton,156898.453
+Maple Ridge/Pitt Meadows,Kettle Valley,260664.086
+Maple Ridge/Pitt Meadows,Summerland,217019.592
+Maple Ridge/Pitt Meadows,Penticton,221275.945
+Tri-Cities,Cowichan Valley North,80169.903
+Tri-Cities,Cowichan Valley West,106763.995
+Tri-Cities,Cowichan Valley South,85237.6874
+Tri-Cities,Southern Gulf Islands,66530.4801
+Tri-Cities,Saanich Peninsula,87939.536
+Tri-Cities,Greater Victoria,100286.172
+Tri-Cities,Western Communities,108920.501
+Tri-Cities,Vancouver Island West,261178.922
+Tri-Cities,Greater Campbell River,194109.949
+Tri-Cities,Comox Valley,163617.513
+Tri-Cities,Powell River,138655.777
+Tri-Cities,Sunshine Coast,68550.2678
+Tri-Cities,Howe Sound,75003.9019
+Tri-Cities,West Vancouver/Bowen Island,29893.4899
+Tri-Cities,Alberni/Clayoquot,160931.276
+Tri-Cities,Oceanside,114367.697
+Tri-Cities,Greater Nanaimo,85535.3345
+Tri-Cities,Vancouver - Westside,26920.5346
+Tri-Cities,Richmond,26996.1178
+Tri-Cities,Vancouver - City Centre,23328.4767
+Tri-Cities,Vancouver - South,20992.9506
+Tri-Cities,Vancouver - Midtown,20955.5115
+Tri-Cities,Vancouver - Centre North,19912.1115
+Tri-Cities,North Vancouver,19089.5756
+Tri-Cities,Vancouver - Northeast,17510.6798
+Tri-Cities,Burnaby,12361.479
+Tri-Cities,New Westminster,10719.0079
+Tri-Cities,Surrey,13360.6141
+Tri-Cities,Maple Ridge/Pitt Meadows,15936.6832
+Tri-Cities,Delta,21395.1997
+Tri-Cities,South Surrey/White Rock,25858.1228
+Tri-Cities,Langley,21982.3959
+Tri-Cities,Abbotsford,43361.7266
+Tri-Cities,Chilliwack,64636.7001
+Tri-Cities,Mission,38866.5832
+Tri-Cities,Agassiz/Harrison,72081.3285
+Tri-Cities,Hope,100300.783
+Tri-Cities,Merritt,173528.544
+Tri-Cities,South Cariboo,178985.333
+Tri-Cities,Lillooet,164272.854
+Tri-Cities,Central Okanagan,250138.876
+Tri-Cities,Vernon,279232.806
+Tri-Cities,Armstrong/Spallumcheen,288652.838
+Tri-Cities,Enderby,304345.877
+Tri-Cities,Salmon Arm,301955.518
+Tri-Cities,Kamloops,242047.389
+Tri-Cities,100 Mile House,288794.776
+Tri-Cities,Southern Okanagan,239587.388
+Tri-Cities,Keremeos,213003.022
+Tri-Cities,Princeton,170357.371
+Tri-Cities,Kettle Valley,275168.933
+Tri-Cities,Summerland,230454.87
+Tri-Cities,Penticton,235190.196
+Langley,Cowichan Valley North,88377.6359
+Langley,Cowichan Valley West,112871.589
+Langley,Cowichan Valley South,86124.7498
+Langley,Southern Gulf Islands,67351.6662
+Langley,Saanich Peninsula,82124.2054
+Langley,Greater Victoria,91859.5957
+Langley,Western Communities,102814.854
+Langley,Vancouver Island West,278965.295
+Langley,Greater Campbell River,213935.602
+Langley,Comox Valley,181973.907
+Langley,Powell River,158819.53
+Langley,Sunshine Coast,87689.6678
+Langley,Howe Sound,95426.0795
+Langley,West Vancouver/Bowen Island,49420.1515
+Langley,Alberni/Clayoquot,174784.384
+Langley,Oceanside,129864.042
+Langley,Greater Nanaimo,98745.2155
+Langley,Vancouver - Westside,43016.1655
+Langley,Richmond,37543.138
+Langley,Vancouver - City Centre,40846.5247
+Langley,Vancouver - South,35416.8372
+Langley,Vancouver - Midtown,37330.1637
+Langley,Vancouver - Centre North,37790.8409
+Langley,North Vancouver,39335.7103
+Langley,Vancouver - Northeast,34396.1756
+Langley,Burnaby,29115.7209
+Langley,New Westminster,23821.4541
+Langley,Surrey,14072.2374
+Langley,Tri-Cities,21982.3959
+Langley,Maple Ridge/Pitt Meadows,11849.027
+Langley,Delta,25165.7185
+Langley,South Surrey/White Rock,15299.0354
+Langley,Abbotsford,23751.7974
+Langley,Chilliwack,49752.5992
+Langley,Mission,24187.6853
+Langley,Agassiz/Harrison,62136.3215
+Langley,Hope,92011.0135
+Langley,Merritt,173485.817
+Langley,South Cariboo,187135.338
+Langley,Lillooet,178012.582
+Langley,Central Okanagan,243473.035
+Langley,Vernon,275244.121
+Langley,Armstrong/Spallumcheen,285932.205
+Langley,Enderby,302599.014
+Langley,Salmon Arm,301650.151
+Langley,Kamloops,245086.722
+Langley,100 Mile House,300605.814
+Langley,Southern Okanagan,226477.619
+Langley,Keremeos,200599.586
+Langley,Princeton,161392.125
+Langley,Kettle Valley,263299.09
+Langley,Summerland,221361.039
+Langley,Penticton,224940.758
+Delta,Cowichan Valley North,63539.2108
+Delta,Cowichan Valley West,88798.1185
+Delta,Cowichan Valley South,64687.961
+Delta,Southern Gulf Islands,45792.4498
+Delta,Saanich Peninsula,66590.93
+Delta,Greater Victoria,79254.2899
+Delta,Western Communities,87554.3707
+Delta,Vancouver Island West,255273.425
+Delta,Greater Campbell River,192352.178
+Delta,Comox Valley,158926.713
+Delta,Powell River,138021.843
+Delta,Sunshine Coast,66458.3318
+Delta,Howe Sound,91114.7416
+Delta,West Vancouver/Bowen Island,31351.4762
+Delta,Alberni/Clayoquot,149748.001
+Delta,Oceanside,105359.551
+Delta,Greater Nanaimo,73745.236
+Delta,Vancouver - Westside,21742.7097
+Delta,Richmond,13152.5651
+Delta,Vancouver - City Centre,21670.9133
+Delta,Vancouver - South,14526.7517
+Delta,Vancouver - Midtown,17852.697
+Delta,Vancouver - Centre North,20031.0216
+Delta,North Vancouver,24871.276
+Delta,Vancouver - Northeast,16758.2684
+Delta,Burnaby,14750.4263
+Delta,New Westminster,11417.8641
+Delta,Surrey,12530.0907
+Delta,Tri-Cities,21395.1997
+Delta,Maple Ridge/Pitt Meadows,29314.7382
+Delta,South Surrey/White Rock,14737.4626
+Delta,Langley,25165.7185
+Delta,Abbotsford,48420.4655
+Delta,Chilliwack,74900.2655
+Delta,Mission,49084.8125
+Delta,Agassiz/Harrison,86383.4761
+Delta,Hope,115906.022
+Delta,Merritt,193425.215
+Delta,South Cariboo,200379.61
+Delta,Lillooet,184871.814
+Delta,Central Okanagan,267070.394
+Delta,Vernon,297635.128
+Delta,Kamloops,262881.562
+Delta,Southern Okanagan,251627.637
+Delta,Keremeos,225688.587
+Delta,Princeton,185713.525
+Delta,Kettle Valley,288345.042
+Delta,Summerland,245788.88
+Delta,Penticton,249674.946
+Surrey,Cowichan Valley North,75935.5946
+Surrey,Cowichan Valley West,101326.788
+Surrey,Cowichan Valley South,76761.856
+Surrey,Southern Gulf Islands,57821.6484
+Surrey,Saanich Peninsula,76627.1147
+Surrey,Greater Victoria,88210.9882
+Surrey,Western Communities,97626.1418
+Surrey,Vancouver Island West,264895.345
+Surrey,Greater Campbell River,200158.158
+Surrey,Comox Valley,167943.099
+Surrey,Powell River,145193.029
+Surrey,Sunshine Coast,73868.486
+Surrey,Howe Sound,88062.99
+Surrey,West Vancouver/Bowen Island,36004.1589
+Surrey,Alberni/Clayoquot,161070.543
+Surrey,Oceanside,115877.531
+Surrey,Greater Nanaimo,85038.3933
+Surrey,Vancouver - Westside,28993.3072
+Surrey,Richmond,23778.1811
+Surrey,Vancouver - City Centre,27047.3186
+Surrey,Vancouver - South,21359.4542
+Surrey,Vancouver - Midtown,23416.5923
+Surrey,Vancouver - Centre North,24156.8955
+Surrey,North Vancouver,26564.6672
+Surrey,Vancouver - Northeast,20661.1788
+Surrey,Burnaby,15688.6614
+Surrey,New Westminster,10160.8161
+Surrey,Tri-Cities,13360.6141
+Surrey,Maple Ridge/Pitt Meadows,16825.1826
+Surrey,Delta,12530.0907
+Surrey,South Surrey/White Rock,12509.7286
+Surrey,Langley,14072.2374
+Surrey,Abbotsford,37821.1966
+Surrey,Chilliwack,63128.2541
+Surrey,Mission,37067.121
+Surrey,Agassiz/Harrison,73961.9127
+Surrey,Hope,103407.931
+Surrey,Merritt,181361.479
+Surrey,South Cariboo,190257.078
+Surrey,Lillooet,177131.238
+Surrey,Central Okanagan,254541.324
+Surrey,Vernon,285175.329
+Surrey,Armstrong/Spallumcheen,295279.249
+Surrey,Kamloops,251389.654
+Surrey,100 Mile House,301269.385
+Surrey,Southern Okanagan,239754.105
+Surrey,Keremeos,213663.595
+Surrey,Princeton,173262.959
+Surrey,Kettle Valley,276246.06
+Surrey,Summerland,233354.495
+Surrey,Penticton,237345.567
+South Surrey/White Rock,Cowichan Valley North,74734.3997
+South Surrey/White Rock,Cowichan Valley West,98381.5139
+South Surrey/White Rock,Cowichan Valley South,70911.6422
+South Surrey/White Rock,Southern Gulf Islands,52217.6193
+South Surrey/White Rock,Saanich Peninsula,67248.4078
+South Surrey/White Rock,Greater Victoria,77712.430300000007
+South Surrey/White Rock,Western Communities,88083.6785
+South Surrey/White Rock,Vancouver Island West,269645.021
+South Surrey/White Rock,Greater Campbell River,207087.68
+South Surrey/White Rock,Comox Valley,173521.02
+South Surrey/White Rock,Powell River,152737.048
+South Surrey/White Rock,Sunshine Coast,81164.8049
+South Surrey/White Rock,Howe Sound,100473.478
+South Surrey/White Rock,West Vancouver/Bowen Island,45167.0376
+South Surrey/White Rock,Alberni/Clayoquot,162961.109
+South Surrey/White Rock,Oceanside,119379.282
+South Surrey/White Rock,Greater Nanaimo,87214.0892
+South Surrey/White Rock,Vancouver - Westside,36241.9882
+South Surrey/White Rock,Richmond,27795.3547
+South Surrey/White Rock,Vancouver - City Centre,35578.4067
+South Surrey/White Rock,Vancouver - South,28721.7713
+South Surrey/White Rock,Vancouver - Midtown,31712.5691
+South Surrey/White Rock,Vancouver - Centre North,33351.2911
+South Surrey/White Rock,North Vancouver,37091.1212
+South Surrey/White Rock,Vancouver - Northeast,29821.2727
+South Surrey/White Rock,Burnaby,25981.4547
+South Surrey/White Rock,New Westminster,20687.9838
+South Surrey/White Rock,Surrey,12509.7286
+South Surrey/White Rock,Tri-Cities,25858.1228
+South Surrey/White Rock,Maple Ridge/Pitt Meadows,24711.4073
+South Surrey/White Rock,Delta,14737.4626
+South Surrey/White Rock,Langley,15299.0354
+South Surrey/White Rock,Abbotsford,35740.3486
+South Surrey/White Rock,Chilliwack,63492.499
+South Surrey/White Rock,Mission,38892.6119
+South Surrey/White Rock,Agassiz/Harrison,77069.0052
+South Surrey/White Rock,Hope,107032.782
+South Surrey/White Rock,Merritt,188659.09
+South Surrey/White Rock,South Cariboo,200644.726
+South Surrey/White Rock,Lillooet,189024.069
+South Surrey/White Rock,Central Okanagan,258504.775
+South Surrey/White Rock,Vernon,290506.703
+South Surrey/White Rock,Armstrong/Spallumcheen,301229.89
+South Surrey/White Rock,Kamloops,259917.288
+South Surrey/White Rock,Southern Okanagan,239815.777
+South Surrey/White Rock,Keremeos,214269.259
+South Surrey/White Rock,Princeton,176121.33
+South Surrey/White Rock,Kettle Valley,277069.947
+South Surrey/White Rock,Summerland,235979.813
+South Surrey/White Rock,Penticton,239268.883
+Richmond,Cowichan Valley North,53342.2876
+Richmond,Cowichan Valley West,79772.926
+Richmond,Cowichan Valley South,59511.8614
+Richmond,Southern Gulf Islands,41451.9814
+Richmond,Saanich Peninsula,66586.7929
+Richmond,Greater Victoria,80762.1517
+Richmond,Western Communities,87005.8759
+Richmond,Vancouver Island West,242149.683
+Richmond,Greater Campbell River,179354.262
+Richmond,Comox Valley,145776.82
+Richmond,Powell River,125228.519
+Richmond,Sunshine Coast,53761.401
+Richmond,Howe Sound,86061.788
+Richmond,West Vancouver/Bowen Island,21748.166
+Richmond,Alberni/Clayoquot,137303.391
+Richmond,Oceanside,92421.2419
+Richmond,Greater Nanaimo,61265.2488
+Richmond,Vancouver - Westside,10886.8753
+Richmond,Vancouver - City Centre,13133.0002
+Richmond,Vancouver - South,7642.10652
+Richmond,Vancouver - Midtown,10626.8423
+Richmond,Vancouver - Centre North,13671.8884
+Richmond,North Vancouver,19721.6128
+Richmond,Vancouver - Northeast,12393.6213
+Richmond,Burnaby,15238.1433
+Richmond,New Westminster,16747.6826
+Richmond,Surrey,23778.1811
+Richmond,Tri-Cities,26996.1178
+Richmond,Maple Ridge/Pitt Meadows,39360.0932
+Richmond,Delta,13152.5651
+Richmond,South Surrey/White Rock,27795.3547
+Richmond,Langley,37543.138
+Richmond,Abbotsford,61151.1686
+Richmond,Chilliwack,86904.3964
+Richmond,Mission,60813.6825
+Richmond,Agassiz/Harrison,97155.8618
+Richmond,Hope,126189.468
+Richmond,Merritt,200403.616
+Richmond,South Cariboo,203196.342
+Richmond,Lillooet,184255.187
+Richmond,Central Okanagan,276727.397
+Richmond,Vernon,306192.824
+Richmond,Kamloops,268219.603
+Richmond,Southern Okanagan,263487.795
+Richmond,Keremeos,237324.993
+Richmond,Princeton,196220.392
+Richmond,Kettle Valley,299843.308
+Richmond,Summerland,256346.218
+Richmond,Penticton,260631.791
+Vancouver - City Centre,Cowichan Valley North,59592.3333
+Vancouver - City Centre,Cowichan Valley West,86893.6122
+Vancouver - City Centre,Cowichan Valley South,70263.3737
+Vancouver - City Centre,Southern Gulf Islands,53053.845
+Vancouver - City Centre,Saanich Peninsula,79324.2446
+Vancouver - City Centre,Greater Victoria,93729.5336
+Vancouver - City Centre,Western Communities,99506.7768
+Vancouver - City Centre,Vancouver Island West,238603.247
+Vancouver - City Centre,Greater Campbell River,173125.859
+Vancouver - City Centre,Comox Valley,141323.409
+Vancouver - City Centre,Powell River,118153.117
+Vancouver - City Centre,Sunshine Coast,46849.9845
+Vancouver - City Centre,Howe Sound,72943.0532
+Vancouver - City Centre,West Vancouver/Bowen Island,9681.80531
+Vancouver - City Centre,Alberni/Clayoquot,137630.735
+Vancouver - City Centre,Oceanside,91064.0844
+Vancouver - City Centre,Greater Nanaimo,62475.3446
+Vancouver - City Centre,Vancouver - Westside,4398.19281
+Vancouver - City Centre,Richmond,13133.0002
+Vancouver - City Centre,Vancouver - South,7199.62534
+Vancouver - City Centre,Vancouver - Midtown,3867.84307
+Vancouver - City Centre,Vancouver - Centre North,3416.61382
+Vancouver - City Centre,North Vancouver,7783.55478
+Vancouver - City Centre,Vancouver - Northeast,6459.4081
+Vancouver - City Centre,Burnaby,11914.0442
+Vancouver - City Centre,New Westminster,17025.4305
+Vancouver - City Centre,Surrey,27047.3186
+Vancouver - City Centre,Tri-Cities,23328.4767
+Vancouver - City Centre,Maple Ridge/Pitt Meadows,38705.5592
+Vancouver - City Centre,Delta,21670.9133
+Vancouver - City Centre,South Surrey/White Rock,35578.4067
+Vancouver - City Centre,Langley,40846.5247
+Vancouver - City Centre,Abbotsford,64340.4062
+Vancouver - City Centre,Chilliwack,87614.3704
+Vancouver - City Centre,Mission,61565.791
+Vancouver - City Centre,Agassiz/Harrison,95373.5954
+Vancouver - City Centre,Hope,123307.435
+Vancouver - City Centre,Merritt,193115.409
+Vancouver - City Centre,South Cariboo,192620.284
+Vancouver - City Centre,Lillooet,172008.338
+Vancouver - City Centre,Central Okanagan,272349.053
+Vancouver - City Centre,Vernon,300374.462
+Vancouver - City Centre,Kamloops,259319.953
+Vancouver - City Centre,100 Mile House,297819.491
+Vancouver - City Centre,Southern Okanagan,262915.848
+Vancouver - City Centre,Keremeos,236320.513
+Vancouver - City Centre,Princeton,193295.484
+Vancouver - City Centre,Kettle Valley,298443.678
+Vancouver - City Centre,Summerland,253340.558
+Vancouver - City Centre,Penticton,258285.831
+Vancouver - Centre North,Cowichan Valley North,62504.9669
+Vancouver - Centre North,Cowichan Valley West,89720.9419
+Vancouver - Centre North,Cowichan Valley South,72210.8813
+Vancouver - Centre North,Southern Gulf Islands,54647.4541
+Vancouver - Centre North,Saanich Peninsula,80257.124
+Vancouver - Centre North,Greater Victoria,94395.6198
+Vancouver - Centre North,Western Communities,100638.614
+Vancouver - Centre North,Vancouver Island West,241890.575
+Vancouver - Centre North,Greater Campbell River,176144.774
+Vancouver - Centre North,Comox Valley,144556.142
+Vancouver - Centre North,Powell River,121072.593
+Vancouver - Centre North,Sunshine Coast,49920.4584
+Vancouver - Centre North,Howe Sound,72744.5701
+Vancouver - Centre North,West Vancouver/Bowen Island,11926.6225
+Vancouver - Centre North,Alberni/Clayoquot,141044.439
+Vancouver - Centre North,Oceanside,94474.1867
+Vancouver - Centre North,Greater Nanaimo,65847.0101
+Vancouver - Centre North,Vancouver - Westside,7404.40747
+Vancouver - Centre North,Richmond,13671.8884
+Vancouver - Centre North,Vancouver - City Centre,3416.61382
+Vancouver - Centre North,Vancouver - South,6422.11842
+Vancouver - Centre North,Vancouver - Midtown,3045.18637
+Vancouver - Centre North,North Vancouver,6050.46486
+Vancouver - Centre North,Vancouver - Northeast,3560.4063
+Vancouver - Centre North,Burnaby,8704.28452
+Vancouver - Centre North,New Westminster,14027.3306
+Vancouver - Centre North,Surrey,24156.8955
+Vancouver - Centre North,Tri-Cities,19912.1115
+Vancouver - Centre North,Maple Ridge/Pitt Meadows,35331.3175
+Vancouver - Centre North,Delta,20031.0216
+Vancouver - Centre North,South Surrey/White Rock,33351.2911
+Vancouver - Centre North,Langley,37790.8409
+Vancouver - Centre North,Abbotsford,61176.1551
+Vancouver - Centre North,Chilliwack,84243.1756
+Vancouver - Centre North,Mission,58217.8377
+Vancouver - Centre North,Agassiz/Harrison,91959.445
+Vancouver - Centre North,Hope,119924.554
+Vancouver - Centre North,Merritt,190174.305
+Vancouver - Centre North,South Cariboo,190475.887
+Vancouver - Centre North,Lillooet,170662.931
+Vancouver - Centre North,Central Okanagan,269073.3
+Vancouver - Centre North,Vernon,297242.189
+Vancouver - Centre North,Armstrong/Spallumcheen,306138.9
+Vancouver - Centre North,Kamloops,256705.61
+Vancouver - Centre North,100 Mile House,296365.555
+Vancouver - Centre North,Southern Okanagan,259499.495
+Vancouver - Centre North,Keremeos,232904.46
+Vancouver - Centre North,Princeton,189923.683
+Vancouver - Centre North,Kettle Valley,295032.108
+Vancouver - Centre North,Summerland,249976.752
+Vancouver - Centre North,Penticton,254895.692
+Vancouver - Northeast,Cowichan Valley North,63512.8009
+Vancouver - Northeast,Cowichan Valley West,90530.3049
+Vancouver - Northeast,Cowichan Valley South,71767.6311
+Vancouver - Northeast,Southern Gulf Islands,53834.1622
+Vancouver - Northeast,Saanich Peninsula,78681.8292
+Vancouver - Northeast,Greater Victoria,92549.1977
+Vancouver - Northeast,Western Communities,99234.5005
+Vancouver - Northeast,Vancouver Island West,245018.768
+Vancouver - Northeast,Greater Campbell River,179556.722
+Vancouver - Northeast,Comox Valley,147770.696
+Vancouver - Northeast,Powell River,124536.634
+Vancouver - Northeast,Sunshine Coast,53294.0042
+Vancouver - Northeast,Howe Sound,75193.1084
+Vancouver - Northeast,West Vancouver/Bowen Island,15485.3151
+Vancouver - Northeast,Alberni/Clayoquot,143506.795
+Vancouver - Northeast,Oceanside,97191.1426
+Vancouver - Northeast,Greater Nanaimo,68025.6197
+Vancouver - Northeast,Vancouver - Westside,9445.3064
+Vancouver - Northeast,Richmond,12393.6213
+Vancouver - Northeast,Vancouver - City Centre,6459.4081
+Vancouver - Northeast,Vancouver - South,4766.89857
+Vancouver - Northeast,Vancouver - Midtown,3444.8595
+Vancouver - Northeast,Vancouver - Centre North,3560.4063
+Vancouver - Northeast,North Vancouver,8301.96242
+Vancouver - Northeast,Burnaby,5523.80485
+Vancouver - Northeast,New Westminster,10580.9415
+Vancouver - Northeast,Surrey,20661.1788
+Vancouver - Northeast,Tri-Cities,17510.6798
+Vancouver - Northeast,Maple Ridge/Pitt Meadows,32477.8969
+Vancouver - Northeast,Delta,16758.2684
+Vancouver - Northeast,South Surrey/White Rock,29821.2727
+Vancouver - Northeast,Langley,34396.1756
+Vancouver - Northeast,Abbotsford,57882.3638
+Vancouver - Northeast,Chilliwack,81348.1691
+Vancouver - Northeast,Mission,55251.3601
+Vancouver - Northeast,Agassiz/Harrison,89552.5325
+Vancouver - Northeast,Hope,117795.98
+Vancouver - Northeast,Merritt,189300.907
+Vancouver - Northeast,South Cariboo,190877.847
+Vancouver - Northeast,Lillooet,172014.843
+Vancouver - Northeast,Central Okanagan,267367.528
+Vancouver - Northeast,Vernon,295932.616
+Vancouver - Northeast,Armstrong/Spallumcheen,305019.199
+Vancouver - Northeast,Kamloops,256404.286
+Vancouver - Northeast,100 Mile House,297575.351
+Vancouver - Northeast,Southern Okanagan,256937.894
+Vancouver - Northeast,Keremeos,230421.754
+Vancouver - Northeast,Princeton,187842.892
+Vancouver - Northeast,Kettle Valley,292641.255
+Vancouver - Northeast,Summerland,247930.38
+Vancouver - Northeast,Penticton,252700.178
+Vancouver - Westside,Cowichan Valley North,55214.0283
+Vancouver - Westside,Cowichan Valley West,82501.0638
+Vancouver - Westside,Cowichan Valley South,66114.3663
+Vancouver - Westside,Southern Gulf Islands,49146.1444
+Vancouver - Westside,Saanich Peninsula,75893.3141
+Vancouver - Westside,Greater Victoria,90517.9329
+Vancouver - Westside,Western Communities,95890.6551
+Vancouver - Westside,Vancouver Island West,236015.735
+Vancouver - Westside,Greater Campbell River,171369.538
+Vancouver - Westside,Comox Valley,138958.437
+Vancouver - Westside,Powell River,116673.551
+Vancouver - Westside,Sunshine Coast,45133.3321
+Vancouver - Westside,Howe Sound,75971.7772
+Vancouver - Westside,West Vancouver/Bowen Island,10894.714
+Vancouver - Westside,Alberni/Clayoquot,134061.517
+Vancouver - Westside,Oceanside,87803.3838
+Vancouver - Westside,Greater Nanaimo,58630.524
+Vancouver - Westside,Richmond,10886.8753
+Vancouver - Westside,Vancouver - City Centre,4398.19281
+Vancouver - Westside,Vancouver - South,7708.24526
+Vancouver - Westside,Vancouver - Midtown,6029.1832
+Vancouver - Westside,Vancouver - Centre North,7404.40747
+Vancouver - Westside,North Vancouver,12136.3563
+Vancouver - Westside,Vancouver - Northeast,9445.3064
+Vancouver - Westside,Burnaby,14898.9258
+Vancouver - Westside,New Westminster,19399.0388
+Vancouver - Westside,Surrey,28993.3072
+Vancouver - Westside,Tri-Cities,26920.5346
+Vancouver - Westside,Maple Ridge/Pitt Meadows,41868.3192
+Vancouver - Westside,Delta,21742.7097
+Vancouver - Westside,South Surrey/White Rock,36241.9882
+Vancouver - Westside,Langley,43016.1655
+Vancouver - Westside,Abbotsford,66700.2206
+Vancouver - Westside,Chilliwack,90682.9043
+Vancouver - Westside,Mission,64547.9847
+Vancouver - Westside,Agassiz/Harrison,98988.2939
+Vancouver - Westside,Hope,127147.815
+Vancouver - Westside,Merritt,197478.943
+Vancouver - Westside,South Cariboo,196906.262
+Vancouver - Westside,Lillooet,175879.781
+Vancouver - Westside,Central Okanagan,276454.07
+Vancouver - Westside,Vernon,304640.168
+Vancouver - Westside,Kamloops,263714.894
+Vancouver - Westside,100 Mile House,301748.144
+Vancouver - Westside,Southern Okanagan,266380.755
+Vancouver - Westside,Keremeos,239866.697
+Vancouver - Westside,Princeton,197175.343
+Vancouver - Westside,Kettle Valley,302077.976
+Vancouver - Westside,Summerland,257246.602
+Vancouver - Westside,Penticton,262084.153
+Vancouver - Midtown,Cowichan Valley North,60298.3882
+Vancouver - Midtown,Cowichan Valley West,87401.1396
+Vancouver - Midtown,Cowichan Valley South,69341.4604
+Vancouver - Midtown,Southern Gulf Islands,51680.8572
+Vancouver - Midtown,Saanich Peninsula,77211.9819
+Vancouver - Midtown,Greater Victoria,91359.9539
+Vancouver - Midtown,Western Communities,97599.4436
+Vancouver - Midtown,Vancouver Island West,241855.663
+Vancouver - Midtown,Greater Campbell River,176747.981
+Vancouver - Midtown,Comox Valley,144691.436
+Vancouver - Midtown,Powell River,121853.032
+Vancouver - Midtown,Sunshine Coast,50456.4099
+Vancouver - Midtown,Howe Sound,75693.6198
+Vancouver - Midtown,West Vancouver/Bowen Island,13527.6678
+Vancouver - Midtown,Alberni/Clayoquot,140079.829
+Vancouver - Midtown,Oceanside,93823.2836
+Vancouver - Midtown,Greater Nanaimo,64580.8589
+Vancouver - Midtown,Vancouver - Westside,6029.1832
+Vancouver - Midtown,Richmond,10626.8423
+Vancouver - Midtown,Vancouver - City Centre,3867.84307
+Vancouver - Midtown,Vancouver - South,3576.45425
+Vancouver - Midtown,Vancouver - Centre North,3045.18637
+Vancouver - Midtown,North Vancouver,9095.54314
+Vancouver - Midtown,Vancouver - Northeast,3444.8595
+Vancouver - Midtown,Burnaby,8870.90644
+Vancouver - Midtown,New Westminster,13555.4305
+Vancouver - Midtown,Surrey,23416.5923
+Vancouver - Midtown,Tri-Cities,20955.5115
+Vancouver - Midtown,Maple Ridge/Pitt Meadows,35843.7233
+Vancouver - Midtown,Delta,17852.697
+Vancouver - Midtown,South Surrey/White Rock,31712.5691
+Vancouver - Midtown,Langley,37330.1637
+Vancouver - Midtown,Abbotsford,60931.2266
+Vancouver - Midtown,Chilliwack,84677.6719
+Vancouver - Midtown,Mission,58555.6853
+Vancouver - Midtown,Agassiz/Harrison,92992.22
+Vancouver - Midtown,Hope,121237.717
+Vancouver - Midtown,Merritt,192432.961
+Vancouver - Midtown,South Cariboo,193307.423
+Vancouver - Midtown,Lillooet,173692.027
+Vancouver - Midtown,Central Okanagan,270758.547
+Vancouver - Midtown,Vernon,299224.461
+Vancouver - Midtown,Kamloops,259265.985
+Vancouver - Midtown,100 Mile House,299380.165
+Vancouver - Midtown,Southern Okanagan,260355.681
+Vancouver - Midtown,Keremeos,233851.577
+Vancouver - Midtown,Princeton,191282.553
+Vancouver - Midtown,Kettle Valley,296080.029
+Vancouver - Midtown,Summerland,251367.953
+Vancouver - Midtown,Penticton,256144.75
+Vancouver - South,Cowichan Valley North,59342.0546
+Vancouver - South,Cowichan Valley West,86202.7744
+Vancouver - South,Cowichan Valley South,67014.2481
+Vancouver - South,Southern Gulf Islands,49068.9456
+Vancouver - South,Saanich Peninsula,74092.0031
+Vancouver - South,Greater Victoria,88096.5523
+Vancouver - South,Western Communities,94583.8175
+Vancouver - South,Vancouver Island West,243555.106
+Vancouver - South,Greater Campbell River,179077.462
+Vancouver - South,Comox Valley,146588.897
+Vancouver - South,Powell River,124356.917
+Vancouver - South,Sunshine Coast,52832.7236
+Vancouver - South,Howe Sound,79166.3916
+Vancouver - South,West Vancouver/Bowen Island,16851.2914
+Vancouver - South,Alberni/Clayoquot,140770.458
+Vancouver - South,Oceanside,94922.2833
+Vancouver - South,Greater Nanaimo,64987.1272
+Vancouver - South,Vancouver - Westside,7708.24526
+Vancouver - South,Richmond,7642.10652
+Vancouver - South,Vancouver - City Centre,7199.62534
+Vancouver - South,Vancouver - Midtown,3576.45425
+Vancouver - South,Vancouver - Centre North,6422.11842
+Vancouver - South,North Vancouver,12352.8495
+Vancouver - South,Vancouver - Northeast,4766.89857
+Vancouver - South,Burnaby,8648.80951
+Vancouver - South,New Westminster,12114.3172
+Vancouver - South,Surrey,21359.4542
+Vancouver - South,Tri-Cities,20992.9506
+Vancouver - South,Maple Ridge/Pitt Meadows,35014.808
+Vancouver - South,Delta,14526.7517
+Vancouver - South,South Surrey/White Rock,28721.7713
+Vancouver - South,Langley,35416.8372
+Vancouver - South,Abbotsford,59142.1659
+Vancouver - South,Chilliwack,83577.4996
+Vancouver - South,Mission,57404.4696
+Vancouver - South,Agassiz/Harrison,92588.0478
+Vancouver - South,Hope,121159.479
+Vancouver - South,Merritt,193678.79
+Vancouver - South,South Cariboo,195638.791
+Vancouver - South,Lillooet,176663.697
+Vancouver - South,Central Okanagan,271129.384
+Vancouver - South,Vernon,300021.311
+Vancouver - South,Kamloops,261024.686
+Vancouver - South,100 Mile House,302267.02
+Vancouver - South,Southern Okanagan,259657.497
+Vancouver - South,Keremeos,233268.268
+Vancouver - South,Princeton,191229.62
+Vancouver - South,Kettle Valley,295610.328
+Vancouver - South,Summerland,251343.361
+Vancouver - South,Penticton,255934.591
+North Vancouver,Cowichan Valley North,67123.4786
+North Vancouver,Cowichan Valley West,94490.2007
+North Vancouver,Cowichan Valley South,77970.4135
+North Vancouver,Southern Gulf Islands,60577.016
+North Vancouver,Saanich Peninsula,86307.5173
+North Vancouver,Greater Victoria,100424.01
+North Vancouver,Western Communities,106681.488
+North Vancouver,Vancouver Island West,242136.056
+North Vancouver,Greater Campbell River,175159.097
+North Vancouver,Comox Valley,144540.028
+North Vancouver,Powell River,119798.193
+North Vancouver,Sunshine Coast,49460.8283
+North Vancouver,Howe Sound,66928.2958
+North Vancouver,West Vancouver/Bowen Island,10846.7186
+North Vancouver,Alberni/Clayoquot,143192.173
+North Vancouver,Oceanside,96101.0247
+North Vancouver,Greater Nanaimo,68748.6267
+North Vancouver,Vancouver - Westside,12136.3563
+North Vancouver,Richmond,19721.6128
+North Vancouver,Vancouver - City Centre,7783.55478
+North Vancouver,Vancouver - South,12352.8495
+North Vancouver,Vancouver - Midtown,9095.54314
+North Vancouver,Vancouver - Centre North,6050.46486
+North Vancouver,Vancouver - Northeast,8301.96242
+North Vancouver,Burnaby,11130.9532
+North Vancouver,New Westminster,16612.2201
+North Vancouver,Surrey,26564.6672
+North Vancouver,Tri-Cities,19089.5756
+North Vancouver,Maple Ridge/Pitt Meadows,35021.3307
+North Vancouver,Delta,24871.276
+North Vancouver,South Surrey/White Rock,37091.1212
+North Vancouver,Langley,39335.7103
+North Vancouver,Abbotsford,62043.2837
+North Vancouver,Chilliwack,83640.1523
+North Vancouver,Mission,57954.4252
+North Vancouver,Agassiz/Harrison,90117.6723
+North Vancouver,Hope,117448.48
+North Vancouver,Merritt,185710.311
+North Vancouver,South Cariboo,184846.511
+North Vancouver,Lillooet,164639.82
+North Vancouver,Central Okanagan,265744.029
+North Vancouver,Vernon,293309.655
+North Vancouver,Armstrong/Spallumcheen,301949.051
+North Vancouver,Kamloops,251616.049
+North Vancouver,100 Mile House,290368.999
+North Vancouver,Southern Okanagan,257836.254
+North Vancouver,Keremeos,231070.312
+North Vancouver,Princeton,187284.65
+North Vancouver,Kettle Valley,292973.709
+North Vancouver,Summerland,247244.427
+North Vancouver,Penticton,252447.046
+West Vancouver/Bowen Island,Cowichan Valley North,60128.5576
+West Vancouver/Bowen Island,Cowichan Valley West,87590.8073
+West Vancouver/Bowen Island,Cowichan Valley South,74515.2933
+West Vancouver/Bowen Island,Southern Gulf Islands,58496.858
+West Vancouver/Bowen Island,Saanich Peninsula,86046.4622
+West Vancouver/Bowen Island,Greater Victoria,100912.809
+West Vancouver/Bowen Island,Western Communities,105711.413
+West Vancouver/Bowen Island,Vancouver Island West,231297.794
+West Vancouver/Bowen Island,Greater Campbell River,164638.78
+West Vancouver/Bowen Island,Comox Valley,133724.881
+West Vancouver/Bowen Island,Powell River,109412.546
+West Vancouver/Bowen Island,Sunshine Coast,38693.2251
+West Vancouver/Bowen Island,Howe Sound,65643.5741
+West Vancouver/Bowen Island,Alberni/Clayoquot,132838.074
+West Vancouver/Bowen Island,Oceanside,85525.0779
+West Vancouver/Bowen Island,Greater Nanaimo,59156.6483
+West Vancouver/Bowen Island,Vancouver - Westside,10894.714
+West Vancouver/Bowen Island,Richmond,21748.166
+West Vancouver/Bowen Island,Vancouver - City Centre,9681.80531
+West Vancouver/Bowen Island,Vancouver - South,16851.2914
+West Vancouver/Bowen Island,Vancouver - Midtown,13527.6678
+West Vancouver/Bowen Island,Vancouver - Centre North,11926.6225
+West Vancouver/Bowen Island,North Vancouver,10846.7186
+West Vancouver/Bowen Island,Vancouver - Northeast,15485.3151
+West Vancouver/Bowen Island,Burnaby,20360.4255
+West Vancouver/Bowen Island,New Westminster,25844.569
+West Vancouver/Bowen Island,Surrey,36004.1589
+West Vancouver/Bowen Island,Tri-Cities,29893.4899
+West Vancouver/Bowen Island,Maple Ridge/Pitt Meadows,45801.7245
+West Vancouver/Bowen Island,Delta,31351.4762
+West Vancouver/Bowen Island,South Surrey/White Rock,45167.0376
+West Vancouver/Bowen Island,Langley,49420.1515
+West Vancouver/Bowen Island,Abbotsford,72519.4169
+West Vancouver/Bowen Island,Chilliwack,94483.169
+West Vancouver/Bowen Island,Mission,68755.2697
+West Vancouver/Bowen Island,Agassiz/Harrison,100797.585
+West Vancouver/Bowen Island,Hope,127831.389
+West Vancouver/Bowen Island,Merritt,193947.342
+West Vancouver/Bowen Island,South Cariboo,190032.413
+West Vancouver/Bowen Island,Lillooet,167012.781
+West Vancouver/Bowen Island,Central Okanagan,275403.208
+West Vancouver/Bowen Island,Vernon,302275.791
+West Vancouver/Bowen Island,Kamloops,258487.113
+West Vancouver/Bowen Island,100 Mile House,292996.993
+West Vancouver/Bowen Island,Southern Okanagan,268522.949
+West Vancouver/Bowen Island,Keremeos,241702.38
+West Vancouver/Bowen Island,Princeton,197525.654
+West Vancouver/Bowen Island,Kettle Valley,303505.952
+West Vancouver/Bowen Island,Summerland,257402.038
+West Vancouver/Bowen Island,Penticton,262784.602
+Sunshine Coast,Cowichan Valley North,53793.4707
+Sunshine Coast,Cowichan Valley West,76714.6115
+Sunshine Coast,Cowichan Valley South,79773.9901
+Sunshine Coast,Southern Gulf Islands,71226.4531
+Sunshine Coast,Saanich Peninsula,100323.385
+Sunshine Coast,Greater Victoria,116203.57
+Sunshine Coast,Western Communities,116076.845
+Sunshine Coast,Vancouver Island North,284470.773
+Sunshine Coast,Vancouver Island West,192819.782
+Sunshine Coast,Greater Campbell River,126291.617
+Sunshine Coast,Comox Valley,95121.1839
+Sunshine Coast,Powell River,71575.8286
+Sunshine Coast,Howe Sound,70201.4695
+Sunshine Coast,West Vancouver/Bowen Island,38693.2251
+Sunshine Coast,Alberni/Clayoquot,99458.3935
+Sunshine Coast,Oceanside,51492.2936
+Sunshine Coast,Greater Nanaimo,37289.5548
+Sunshine Coast,Vancouver - Westside,45133.3321
+Sunshine Coast,Richmond,53761.401
+Sunshine Coast,Vancouver - City Centre,46849.9845
+Sunshine Coast,Vancouver - South,52832.7236
+Sunshine Coast,Vancouver - Midtown,50456.4099
+Sunshine Coast,Vancouver - Centre North,49920.4584
+Sunshine Coast,North Vancouver,49460.8283
+Sunshine Coast,Vancouver - Northeast,53294.0042
+Sunshine Coast,Burnaby,58622.0412
+Sunshine Coast,New Westminster,63872.8988
+Sunshine Coast,Surrey,73868.486
+Sunshine Coast,Tri-Cities,68550.2678
+Sunshine Coast,Maple Ridge/Pitt Meadows,84478.1505
+Sunshine Coast,Delta,66458.3318
+Sunshine Coast,South Surrey/White Rock,81164.8049
+Sunshine Coast,Langley,87689.6678
+Sunshine Coast,Abbotsford,111072.807
+Sunshine Coast,Chilliwack,133003.874
+Sunshine Coast,Mission,107414.674
+Sunshine Coast,Agassiz/Harrison,138214.129
+Sunshine Coast,Hope,163951.346
+Sunshine Coast,Merritt,221986.676
+Sunshine Coast,South Cariboo,207749.883
+Sunshine Coast,Lillooet,175732.051
+Sunshine Coast,Kamloops,281129.83
+Sunshine Coast,100 Mile House,300322.904
+Sunshine Coast,Southern Okanagan,305649.146
+Sunshine Coast,Keremeos,278573.764
+Sunshine Coast,Princeton,232782.807
+Sunshine Coast,Summerland,292148.509
+Sunshine Coast,Penticton,298276.765
+Powell River,Cowichan Valley North,106573.028
+Powell River,Cowichan Valley West,115433.568
+Powell River,Cowichan Valley South,135459.957
+Powell River,Southern Gulf Islands,134109.809
+Powell River,Saanich Peninsula,160475.466
+Powell River,Greater Victoria,175682.922
+Powell River,Western Communities,171091.913
+Powell River,Vancouver Island North,213576.037
+Powell River,Vancouver Island West,128990.538
+Powell River,Greater Campbell River,55678.1158
+Powell River,Comox Valley,36652.3275
+Powell River,Sunshine Coast,71575.8286
+Powell River,Howe Sound,106964.023
+Powell River,West Vancouver/Bowen Island,109412.546
+Powell River,Alberni/Clayoquot,77311.1568
+Powell River,Oceanside,57218.002
+Powell River,Greater Nanaimo,82270.408
+Powell River,Vancouver - Westside,116673.551
+Powell River,Richmond,125228.519
+Powell River,Vancouver - City Centre,118153.117
+Powell River,Vancouver - South,124356.917
+Powell River,Vancouver - Midtown,121853.032
+Powell River,Vancouver - Centre North,121072.593
+Powell River,North Vancouver,119798.193
+Powell River,Vancouver - Northeast,124536.634
+Powell River,Burnaby,129711.39
+Powell River,New Westminster,135098.125
+Powell River,Surrey,145193.029
+Powell River,Tri-Cities,138655.777
+Powell River,Maple Ridge/Pitt Meadows,154504.019
+Powell River,Delta,138021.843
+Powell River,South Surrey/White Rock,152737.048
+Powell River,Langley,158819.53
+Powell River,Abbotsford,181841.032
+Powell River,Chilliwack,201882.996
+Powell River,Mission,177127.241
+Powell River,Agassiz/Harrison,204380.187
+Powell River,Hope,227142.451
+Powell River,Merritt,269515.529
+Powell River,South Cariboo,238835.726
+Powell River,Lillooet,194636.496
+Powell River,Cariboo/Chilcotin,304428.942
+Powell River,Princeton,292970.601
+Howe Sound,Cowichan Valley North,118778.18
+Howe Sound,Cowichan Valley West,144659.87
+Howe Sound,Cowichan Valley South,138664.345
+Howe Sound,Southern Gulf Islands,123838.941
+Howe Sound,Saanich Peninsula,151689.966
+Howe Sound,Greater Victoria,166480.277
+Howe Sound,Western Communities,171239.449
+Howe Sound,Vancouver Island West,235498.906
+Howe Sound,Greater Campbell River,158798.314
+Howe Sound,Comox Valley,141963.003
+Howe Sound,Powell River,106964.023
+Howe Sound,Sunshine Coast,70201.4695
+Howe Sound,West Vancouver/Bowen Island,65643.5741
+Howe Sound,Alberni/Clayoquot,163500.529
+Howe Sound,Oceanside,117732.003
+Howe Sound,Greater Nanaimo,107067.842
+Howe Sound,Vancouver - Westside,75971.7772
+Howe Sound,Richmond,86061.788
+Howe Sound,Vancouver - City Centre,72943.0532
+Howe Sound,Vancouver - South,79166.3916
+Howe Sound,Vancouver - Midtown,75693.6198
+Howe Sound,Vancouver - Centre North,72744.5701
+Howe Sound,North Vancouver,66928.2958
+Howe Sound,Vancouver - Northeast,75193.1084
+Howe Sound,Burnaby,76379.4974
+Howe Sound,New Westminster,80650.3139
+Howe Sound,Surrey,88062.99
+Howe Sound,Tri-Cities,75003.9019
+Howe Sound,Maple Ridge/Pitt Meadows,84902.0389
+Howe Sound,Delta,91114.7416
+Howe Sound,South Surrey/White Rock,100473.478
+Howe Sound,Langley,95426.0795
+Howe Sound,Abbotsford,110409.249
+Howe Sound,Chilliwack,118319.321
+Howe Sound,Mission,100647.246
+Howe Sound,Agassiz/Harrison,112993.577
+Howe Sound,Hope,128825.717
+Howe Sound,Merritt,162646.338
+Howe Sound,South Cariboo,138899.665
+Howe Sound,Lillooet,105769.742
+Howe Sound,Cariboo/Chilcotin,253271.49
+Howe Sound,Central Okanagan,255353.515
+Howe Sound,Vernon,273711.962
+Howe Sound,Armstrong/Spallumcheen,278348.816
+Howe Sound,Enderby,290057.745
+Howe Sound,Salmon Arm,282867.391
+Howe Sound,Kamloops,214591.39
+Howe Sound,North Thompson,297240.794
+Howe Sound,100 Mile House,231093.854
+Howe Sound,Southern Okanagan,267938.613
+Howe Sound,Keremeos,240297.382
+Howe Sound,Princeton,189524.849
+Howe Sound,Kettle Valley,297498.467
+Howe Sound,Summerland,245213.992
+Howe Sound,Penticton,253676.653
+Bella Coola Valley,Burns Lake,209746.509
+Bella Coola Valley,Terrace,283454.843
+Bella Coola Valley,Smithers,259399.811
+Bella Coola Valley,Kitimat,243744.452
+Bella Coola Valley,Nechako,244776.401
+Bella Coola Valley,Central Coast,122229.13
+Bella Coola Valley,Vancouver Island North,205734.797
+Bella Coola Valley,Vancouver Island West,283170.585
+Bella Coola Valley,Greater Campbell River,276094.908
+Bella Coola Valley,Prince George,301018.476
+Bella Coola Valley,Quesnel,270012.939
+Bella Coola Valley,Cariboo/Chilcotin,286744.295
+Central Coast,Burns Lake,268128.608
+Central Coast,Terrace,254945.06
+Central Coast,Smithers,276105.059
+Central Coast,Kitimat,200515.117
+Central Coast,Haida Gwaii,299307.093
+Central Coast,Prince Rupert,267296.339
+Central Coast,Bella Coola Valley,122229.13
+Central Coast,Vancouver Island North,197059.867
+Central Coast,Vancouver Island West,302487.988
+Greater Victoria,Cowichan Valley North,69117.7055
+Greater Victoria,Cowichan Valley West,69406.8543
+Greater Victoria,Cowichan Valley South,40416.0763
+Greater Victoria,Southern Gulf Islands,45144.394
+Greater Victoria,Saanich Peninsula,15880.1912
+Greater Victoria,Western Communities,14971.0387
+Greater Victoria,Vancouver Island West,264881.638
+Greater Victoria,Greater Campbell River,220833.586
+Greater Victoria,Comox Valley,181245.682
+Greater Victoria,Powell River,175682.922
+Greater Victoria,Sunshine Coast,116203.57
+Greater Victoria,Howe Sound,166480.277
+Greater Victoria,West Vancouver/Bowen Island,100912.809
+Greater Victoria,Alberni/Clayoquot,148638.424
+Greater Victoria,Oceanside,122927.214
+Greater Victoria,Greater Nanaimo,93414.6936
+Greater Victoria,Vancouver - Westside,90517.9329
+Greater Victoria,Richmond,80762.1517
+Greater Victoria,Vancouver - City Centre,93729.5336
+Greater Victoria,Vancouver - South,88096.5523
+Greater Victoria,Vancouver - Midtown,91359.9539
+Greater Victoria,Vancouver - Centre North,94395.6198
+Greater Victoria,North Vancouver,100424.01
+Greater Victoria,Vancouver - Northeast,92549.1977
+Greater Victoria,Burnaby,93077.3743
+Greater Victoria,New Westminster,90662.728
+Greater Victoria,Surrey,88210.9882
+Greater Victoria,Tri-Cities,100286.172
+Greater Victoria,Maple Ridge/Pitt Meadows,102396.392
+Greater Victoria,Delta,79254.2899
+Greater Victoria,South Surrey/White Rock,77712.430300000007
+Greater Victoria,Langley,91859.5957
+Greater Victoria,Abbotsford,102710.277
+Greater Victoria,Chilliwack,129470.172
+Greater Victoria,Mission,111271.045
+Greater Victoria,Agassiz/Harrison,147333.55
+Greater Victoria,Hope,176625.07
+Greater Victoria,Merritt,263845.236
+Greater Victoria,South Cariboo,278303.205
+Greater Victoria,Lillooet,264057.579
+Greater Victoria,Southern Okanagan,293357.757
+Greater Victoria,Keremeos,270694.564
+Greater Victoria,Princeton,241248.15
+Greater Victoria,Summerland,298990.094
+Greater Victoria,Penticton,299838.154
+Western Communities,Cowichan Valley North,65300.6035
+Western Communities,Cowichan Valley West,60037.8542
+Western Communities,Cowichan Valley South,36659.9348
+Western Communities,Southern Gulf Islands,47482.8073
+Western Communities,Saanich Peninsula,21007.0358
+Western Communities,Greater Victoria,14971.0387
+Western Communities,Vancouver Island West,254488.387
+Western Communities,Greater Campbell River,213815.238
+Western Communities,Comox Valley,173811.33
+Western Communities,Powell River,171091.913
+Western Communities,Sunshine Coast,116076.845
+Western Communities,Howe Sound,171239.449
+Western Communities,West Vancouver/Bowen Island,105711.413
+Western Communities,Alberni/Clayoquot,138241.856
+Western Communities,Oceanside,116445.844
+Western Communities,Greater Nanaimo,89288.7
+Western Communities,Vancouver - Westside,95890.6551
+Western Communities,Richmond,87005.8759
+Western Communities,Vancouver - City Centre,99506.7768
+Western Communities,Vancouver - South,94583.8175
+Western Communities,Vancouver - Midtown,97599.4436
+Western Communities,Vancouver - Centre North,100638.614
+Western Communities,North Vancouver,106681.488
+Western Communities,Vancouver - Northeast,99234.5005
+Western Communities,Burnaby,100509.859
+Western Communities,New Westminster,98784.177
+Western Communities,Surrey,97626.1418
+Western Communities,Tri-Cities,108920.501
+Western Communities,Maple Ridge/Pitt Meadows,112738.663
+Western Communities,Delta,87554.3707
+Western Communities,South Surrey/White Rock,88083.6785
+Western Communities,Langley,102814.854
+Western Communities,Abbotsford,115481.161
+Western Communities,Chilliwack,142762.086
+Western Communities,Mission,123431.224
+Western Communities,Agassiz/Harrison,160195.597
+Western Communities,Hope,189749.286
+Western Communities,Merritt,275846.672
+Western Communities,South Cariboo,287797.526
+Western Communities,Lillooet,271246.121
+Western Communities,Keremeos,285325.598
+Western Communities,Princeton,255154.88
+Saanich Peninsula,Cowichan Valley North,54094.5445
+Saanich Peninsula,Cowichan Valley West,58043.1227
+Saanich Peninsula,Cowichan Valley South,26199.3367
+Saanich Peninsula,Southern Gulf Islands,29320.9967
+Saanich Peninsula,Greater Victoria,15880.1912
+Saanich Peninsula,Western Communities,21007.0358
+Saanich Peninsula,Vancouver Island West,253095.851
+Saanich Peninsula,Greater Campbell River,206608.702
+Saanich Peninsula,Comox Valley,167338.134
+Saanich Peninsula,Powell River,160475.466
+Saanich Peninsula,Sunshine Coast,100323.385
+Saanich Peninsula,Howe Sound,151689.966
+Saanich Peninsula,West Vancouver/Bowen Island,86046.4622
+Saanich Peninsula,Alberni/Clayoquot,137223.821
+Saanich Peninsula,Oceanside,108692.128
+Saanich Peninsula,Greater Nanaimo,78294.404
+Saanich Peninsula,Vancouver - Westside,75893.3141
+Saanich Peninsula,Richmond,66586.7929
+Saanich Peninsula,Vancouver - City Centre,79324.2446
+Saanich Peninsula,Vancouver - South,74092.0031
+Saanich Peninsula,Vancouver - Midtown,77211.9819
+Saanich Peninsula,Vancouver - Centre North,80257.124
+Saanich Peninsula,North Vancouver,86307.5173
+Saanich Peninsula,Vancouver - Northeast,78681.8292
+Saanich Peninsula,Burnaby,79731.3497
+Saanich Peninsula,New Westminster,77859.0007
+Saanich Peninsula,Surrey,76627.1147
+Saanich Peninsula,Tri-Cities,87939.536
+Saanich Peninsula,Maple Ridge/Pitt Meadows,91847.9073
+Saanich Peninsula,Delta,66590.93
+Saanich Peninsula,South Surrey/White Rock,67248.4078
+Saanich Peninsula,Langley,82124.2054
+Saanich Peninsula,Abbotsford,95930.9475
+Saanich Peninsula,Chilliwack,123689.111
+Saanich Peninsula,Mission,103320.398
+Saanich Peninsula,Agassiz/Harrison,140575.015
+Saanich Peninsula,Hope,170344.593
+Saanich Peninsula,Merritt,255435.736
+Saanich Peninsula,South Cariboo,266791.535
+Saanich Peninsula,Lillooet,250655.485
+Saanich Peninsula,Southern Okanagan,292367.784
+Saanich Peninsula,Keremeos,268850.078
+Saanich Peninsula,Princeton,236779.913
+Saanich Peninsula,Summerland,295391.772
+Saanich Peninsula,Penticton,296966.844
+Southern Gulf Islands,Cowichan Valley North,31173.8102
+Southern Gulf Islands,Cowichan Valley West,47998.8542
+Southern Gulf Islands,Cowichan Valley South,18941.8041
+Southern Gulf Islands,Saanich Peninsula,29320.9967
+Southern Gulf Islands,Greater Victoria,45144.394
+Southern Gulf Islands,Western Communities,47482.8073
+Southern Gulf Islands,Vancouver Island West,235025.907
+Southern Gulf Islands,Greater Campbell River,182835.476
+Southern Gulf Islands,Comox Valley,144705.308
+Southern Gulf Islands,Powell River,134109.809
+Southern Gulf Islands,Sunshine Coast,71226.4531
+Southern Gulf Islands,Howe Sound,123838.941
+Southern Gulf Islands,West Vancouver/Bowen Island,58496.858
+Southern Gulf Islands,Alberni/Clayoquot,121538.075
+Southern Gulf Islands,Oceanside,86007.8366
+Southern Gulf Islands,Greater Nanaimo,53348.5209
+Southern Gulf Islands,Vancouver - Westside,49146.1444
+Southern Gulf Islands,Richmond,41451.9814
+Southern Gulf Islands,Vancouver - City Centre,53053.845
+Southern Gulf Islands,Vancouver - South,49068.9456
+Southern Gulf Islands,Vancouver - Midtown,51680.8572
+Southern Gulf Islands,Vancouver - Centre North,54647.4541
+Southern Gulf Islands,North Vancouver,60577.016
+Southern Gulf Islands,Vancouver - Northeast,53834.1622
+Southern Gulf Islands,Burnaby,56199.1595
+Southern Gulf Islands,New Westminster,55836.7021
+Southern Gulf Islands,Surrey,57821.6484
+Southern Gulf Islands,Tri-Cities,66530.4801
+Southern Gulf Islands,Maple Ridge/Pitt Meadows,74509.2891
+Southern Gulf Islands,Delta,45792.4498
+Southern Gulf Islands,South Surrey/White Rock,52217.6193
+Southern Gulf Islands,Langley,67351.6662
+Southern Gulf Islands,Abbotsford,86616.4434
+Southern Gulf Islands,Chilliwack,114939.537
+Southern Gulf Islands,Mission,91080.3625
+Southern Gulf Islands,Agassiz/Harrison,129273.137
+Southern Gulf Islands,Hope,159248.809
+Southern Gulf Islands,Merritt,239161.694
+Southern Gulf Islands,South Cariboo,244590.856
+Southern Gulf Islands,Lillooet,225024.555
+Southern Gulf Islands,Southern Okanagan,289725.322
+Southern Gulf Islands,Keremeos,264819.361
+Southern Gulf Islands,Princeton,228158.419
+Southern Gulf Islands,Summerland,287876.717
+Southern Gulf Islands,Penticton,290795.422
+Cowichan Valley South,Cowichan Valley North,28967.6544
+Cowichan Valley South,Cowichan Valley West,33680.026
+Cowichan Valley South,Southern Gulf Islands,18941.8041
+Cowichan Valley South,Saanich Peninsula,26199.3367
+Cowichan Valley South,Greater Victoria,40416.0763
+Cowichan Valley South,Western Communities,36659.9348
+Cowichan Valley South,Vancouver Island West,227331.187
+Cowichan Valley South,Greater Campbell River,180574.724
+Cowichan Valley South,Comox Valley,141188.032
+Cowichan Valley South,Powell River,135459.957
+Cowichan Valley South,Sunshine Coast,79773.9901
+Cowichan Valley South,Howe Sound,138664.345
+Cowichan Valley South,West Vancouver/Bowen Island,74515.2933
+Cowichan Valley South,Alberni/Clayoquot,111842.387
+Cowichan Valley South,Oceanside,82638.3942
+Cowichan Valley South,Greater Nanaimo,53232.5857
+Cowichan Valley South,Vancouver - Westside,66114.3663
+Cowichan Valley South,Richmond,59511.8614
+Cowichan Valley South,Vancouver - City Centre,70263.3737
+Cowichan Valley South,Vancouver - South,67014.2481
+Cowichan Valley South,Vancouver - Midtown,69341.4604
+Cowichan Valley South,Vancouver - Centre North,72210.8813
+Cowichan Valley South,North Vancouver,77970.4135
+Cowichan Valley South,Vancouver - Northeast,71767.6311
+Cowichan Valley South,Burnaby,74548.8449
+Cowichan Valley South,New Westminster,74522.0336
+Cowichan Valley South,Surrey,76761.856
+Cowichan Valley South,Tri-Cities,85237.6874
+Cowichan Valley South,Maple Ridge/Pitt Meadows,93448.7138
+Cowichan Valley South,Delta,64687.961
+Cowichan Valley South,South Surrey/White Rock,70911.6422
+Cowichan Valley South,Langley,86124.7498
+Cowichan Valley South,Abbotsford,104699.42
+Cowichan Valley South,Chilliwack,133072.091
+Cowichan Valley South,Mission,109673.736
+Cowichan Valley South,Agassiz/Harrison,147863.579
+Cowichan Valley South,Hope,177868.378
+Cowichan Valley South,Merritt,258090.377
+Cowichan Valley South,South Cariboo,262632.662
+Cowichan Valley South,Lillooet,241527.747
+Cowichan Valley South,Keremeos,282247.274
+Cowichan Valley South,Princeton,246502.68
+Cowichan Valley South,Summerland,306079.129
+Cowichan Valley West,Cowichan Valley North,27469.5586
+Cowichan Valley West,Cowichan Valley South,33680.026
+Cowichan Valley West,Southern Gulf Islands,47998.8542
+Cowichan Valley West,Saanich Peninsula,58043.1227
+Cowichan Valley West,Greater Victoria,69406.8543
+Cowichan Valley West,Western Communities,60037.8542
+Cowichan Valley West,Vancouver Island North,301436.292
+Cowichan Valley West,Vancouver Island West,195502.854
+Cowichan Valley West,Greater Campbell River,154428.02
+Cowichan Valley West,Comox Valley,114227.633
+Cowichan Valley West,Powell River,115433.568
+Cowichan Valley West,Sunshine Coast,76714.6115
+Cowichan Valley West,Howe Sound,144659.87
+Cowichan Valley West,West Vancouver/Bowen Island,87590.8073
+Cowichan Valley West,Alberni/Clayoquot,79341.4397
+Cowichan Valley West,Oceanside,58635.9559
+Cowichan Valley West,Greater Nanaimo,40396.1862
+Cowichan Valley West,Vancouver - Westside,82501.0638
+Cowichan Valley West,Richmond,79772.926
+Cowichan Valley West,Vancouver - City Centre,86893.6122
+Cowichan Valley West,Vancouver - South,86202.7744
+Cowichan Valley West,Vancouver - Midtown,87401.1396
+Cowichan Valley West,Vancouver - Centre North,89720.9419
+Cowichan Valley West,North Vancouver,94490.2007
+Cowichan Valley West,Vancouver - Northeast,90530.3049
+Cowichan Valley West,Burnaby,94727.536
+Cowichan Valley West,New Westminster,96411.7081
+Cowichan Valley West,Surrey,101326.788
+Cowichan Valley West,Tri-Cities,106763.995
+Cowichan Valley West,Maple Ridge/Pitt Meadows,118047.54
+Cowichan Valley West,Delta,88798.1185
+Cowichan Valley West,South Surrey/White Rock,98381.5139
+Cowichan Valley West,Langley,112871.589
+Cowichan Valley West,Abbotsford,133732.351
+Cowichan Valley West,Chilliwack,161828.814
+Cowichan Valley West,Mission,137031.859
+Cowichan Valley West,Agassiz/Harrison,174936.91
+Cowichan Valley West,Hope,204637.659
+Cowichan Valley West,Merritt,279828.277
+Cowichan Valley West,South Cariboo,277200.448
+Cowichan Valley West,Lillooet,250248.331
+Cowichan Valley West,Princeton,274253.157
+Cowichan Valley North,Cowichan Valley West,27469.5586
+Cowichan Valley North,Cowichan Valley South,28967.6544
+Cowichan Valley North,Southern Gulf Islands,31173.8102
+Cowichan Valley North,Saanich Peninsula,54094.5445
+Cowichan Valley North,Greater Victoria,69117.7055
+Cowichan Valley North,Western Communities,65300.6035
+Cowichan Valley North,Vancouver Island North,306126.395
+Cowichan Valley North,Vancouver Island West,203864.474
+Cowichan Valley North,Greater Campbell River,152900.149
+Cowichan Valley North,Comox Valley,114155.414
+Cowichan Valley North,Powell River,106573.028
+Cowichan Valley North,Sunshine Coast,53793.4707
+Cowichan Valley North,Howe Sound,118778.18
+Cowichan Valley North,West Vancouver/Bowen Island,60128.5576
+Cowichan Valley North,Alberni/Clayoquot,91013.5344
+Cowichan Valley North,Oceanside,55315.2076
+Cowichan Valley North,Greater Nanaimo,24303.563
+Cowichan Valley North,Vancouver - Westside,55214.0283
+Cowichan Valley North,Richmond,53342.2876
+Cowichan Valley North,Vancouver - City Centre,59592.3333
+Cowichan Valley North,Vancouver - South,59342.0546
+Cowichan Valley North,Vancouver - Midtown,60298.3882
+Cowichan Valley North,Vancouver - Centre North,62504.9669
+Cowichan Valley North,North Vancouver,67123.4786
+Cowichan Valley North,Vancouver - Northeast,63512.8009
+Cowichan Valley North,Burnaby,67955.0754
+Cowichan Valley North,New Westminster,70089.2395
+Cowichan Valley North,Surrey,75935.5946
+Cowichan Valley North,Tri-Cities,80169.903
+Cowichan Valley North,Maple Ridge/Pitt Meadows,92365.4162
+Cowichan Valley North,Delta,63539.2108
+Cowichan Valley North,South Surrey/White Rock,74734.3997
+Cowichan Valley North,Langley,88377.6359
+Cowichan Valley North,Abbotsford,110473.709
+Cowichan Valley North,Chilliwack,138000.768
+Cowichan Valley North,Mission,112515.956
+Cowichan Valley North,Agassiz/Harrison,149896.076
+Cowichan Valley North,Hope,179269.952
+Cowichan Valley North,Merritt,252679.079
+Cowichan Valley North,South Cariboo,249884.511
+Cowichan Valley North,Lillooet,223941.487
+Cowichan Valley North,Keremeos,288888.354
+Cowichan Valley North,Princeton,249190.979
+Greater Nanaimo,Cowichan Valley North,24303.563
+Greater Nanaimo,Cowichan Valley West,40396.1862
+Greater Nanaimo,Cowichan Valley South,53232.5857
+Greater Nanaimo,Southern Gulf Islands,53348.5209
+Greater Nanaimo,Saanich Peninsula,78294.404
+Greater Nanaimo,Greater Victoria,93414.6936
+Greater Nanaimo,Western Communities,89288.7
+Greater Nanaimo,Vancouver Island North,284241.206
+Greater Nanaimo,Vancouver Island West,184174.741
+Greater Nanaimo,Greater Campbell River,129493.759
+Greater Nanaimo,Comox Valley,91545.2489
+Greater Nanaimo,Powell River,82270.408
+Greater Nanaimo,Sunshine Coast,37289.5548
+Greater Nanaimo,Howe Sound,107067.842
+Greater Nanaimo,West Vancouver/Bowen Island,59156.6483
+Greater Nanaimo,Alberni/Clayoquot,76042.3688
+Greater Nanaimo,Oceanside,33407.097
+Greater Nanaimo,Vancouver - Westside,58630.524
+Greater Nanaimo,Richmond,61265.2488
+Greater Nanaimo,Vancouver - City Centre,62475.3446
+Greater Nanaimo,Vancouver - South,64987.1272
+Greater Nanaimo,Vancouver - Midtown,64580.8589
+Greater Nanaimo,Vancouver - Centre North,65847.0101
+Greater Nanaimo,North Vancouver,68748.6267
+Greater Nanaimo,Vancouver - Northeast,68025.6197
+Greater Nanaimo,Burnaby,73326.1168
+Greater Nanaimo,New Westminster,76998.8365
+Greater Nanaimo,Surrey,85038.3933
+Greater Nanaimo,Tri-Cities,85535.3345
+Greater Nanaimo,Maple Ridge/Pitt Meadows,99980.6425
+Greater Nanaimo,Delta,73745.236
+Greater Nanaimo,South Surrey/White Rock,87214.0892
+Greater Nanaimo,Langley,98745.2155
+Greater Nanaimo,Abbotsford,122165.239
+Greater Nanaimo,Chilliwack,148147.117
+Greater Nanaimo,Mission,122015.44
+Greater Nanaimo,Agassiz/Harrison,157532.741
+Greater Nanaimo,Hope,185766.448
+Greater Nanaimo,Merritt,252502.095
+Greater Nanaimo,South Cariboo,243150.816
+Greater Nanaimo,Lillooet,212790.974
+Greater Nanaimo,Keremeos,298249.644
+Greater Nanaimo,Princeton,255769.967
+Oceanside,Cowichan Valley North,55315.2076
+Oceanside,Cowichan Valley West,58635.9559
+Oceanside,Cowichan Valley South,82638.3942
+Oceanside,Southern Gulf Islands,86007.8366
+Oceanside,Saanich Peninsula,108692.128
+Oceanside,Greater Victoria,122927.214
+Oceanside,Western Communities,116445.844
+Oceanside,Vancouver Island North,251095.741
+Oceanside,Vancouver Island West,150892.531
+Oceanside,Greater Campbell River,97936.3726
+Oceanside,Comox Valley,58842.2299
+Oceanside,Powell River,57218.002
+Oceanside,Sunshine Coast,51492.2936
+Oceanside,Howe Sound,117732.003
+Oceanside,West Vancouver/Bowen Island,85525.0779
+Oceanside,Alberni/Clayoquot,48017.2626
+Oceanside,Greater Nanaimo,33407.097
+Oceanside,Vancouver - Westside,87803.3838
+Oceanside,Richmond,92421.2419
+Oceanside,Vancouver - City Centre,91064.0844
+Oceanside,Vancouver - South,94922.2833
+Oceanside,Vancouver - Midtown,93823.2836
+Oceanside,Vancouver - Centre North,94474.1867
+Oceanside,North Vancouver,96101.0247
+Oceanside,Vancouver - Northeast,97191.1426
+Oceanside,Burnaby,102690.962
+Oceanside,New Westminster,107024.606
+Oceanside,Surrey,115877.531
+Oceanside,Tri-Cities,114367.697
+Oceanside,Maple Ridge/Pitt Meadows,129665.285
+Oceanside,Delta,105359.551
+Oceanside,South Surrey/White Rock,119379.282
+Oceanside,Langley,129864.042
+Oceanside,Abbotsford,153553.282
+Oceanside,Chilliwack,178467.814
+Oceanside,Mission,152308.495
+Oceanside,Agassiz/Harrison,186203.939
+Oceanside,Hope,213308.263
+Oceanside,Merritt,273435.678
+Oceanside,South Cariboo,256615.357
+Oceanside,Lillooet,220569.693
+Oceanside,Princeton,282814.299
+Alberni/Clayoquot,Cowichan Valley North,91013.5344
+Alberni/Clayoquot,Cowichan Valley West,79341.4397
+Alberni/Clayoquot,Cowichan Valley South,111842.387
+Alberni/Clayoquot,Southern Gulf Islands,121538.075
+Alberni/Clayoquot,Saanich Peninsula,137223.821
+Alberni/Clayoquot,Greater Victoria,148638.424
+Alberni/Clayoquot,Western Communities,138241.856
+Alberni/Clayoquot,Vancouver Island North,223468.378
+Alberni/Clayoquot,Vancouver Island West,116290.234
+Alberni/Clayoquot,Greater Campbell River,88808.2011
+Alberni/Clayoquot,Comox Valley,52157.9639
+Alberni/Clayoquot,Powell River,77311.1568
+Alberni/Clayoquot,Sunshine Coast,99458.3935
+Alberni/Clayoquot,Howe Sound,163500.529
+Alberni/Clayoquot,West Vancouver/Bowen Island,132838.074
+Alberni/Clayoquot,Oceanside,48017.2626
+Alberni/Clayoquot,Greater Nanaimo,76042.3688
+Alberni/Clayoquot,Vancouver - Westside,134061.517
+Alberni/Clayoquot,Richmond,137303.391
+Alberni/Clayoquot,Vancouver - City Centre,137630.735
+Alberni/Clayoquot,Vancouver - South,140770.458
+Alberni/Clayoquot,Vancouver - Midtown,140079.829
+Alberni/Clayoquot,Vancouver - Centre North,141044.439
+Alberni/Clayoquot,North Vancouver,143192.173
+Alberni/Clayoquot,Vancouver - Northeast,143506.795
+Alberni/Clayoquot,Burnaby,148921.165
+Alberni/Clayoquot,New Westminster,152852.353
+Alberni/Clayoquot,Surrey,161070.543
+Alberni/Clayoquot,Tri-Cities,160931.276
+Alberni/Clayoquot,Maple Ridge/Pitt Meadows,175778.283
+Alberni/Clayoquot,Delta,149748.001
+Alberni/Clayoquot,South Surrey/White Rock,162961.109
+Alberni/Clayoquot,Langley,174784.384
+Alberni/Clayoquot,Abbotsford,198153.107
+Alberni/Clayoquot,Chilliwack,224155.916
+Alberni/Clayoquot,Mission,198004.029
+Alberni/Clayoquot,Agassiz/Harrison,233003.762
+Alberni/Clayoquot,Hope,260632.876
+Alberni/Clayoquot,South Cariboo,302147.172
+Alberni/Clayoquot,Lillooet,263372.435
+Comox Valley,Cowichan Valley North,114155.414
+Comox Valley,Cowichan Valley West,114227.633
+Comox Valley,Cowichan Valley South,141188.032
+Comox Valley,Southern Gulf Islands,144705.308
+Comox Valley,Saanich Peninsula,167338.134
+Comox Valley,Greater Victoria,181245.682
+Comox Valley,Western Communities,173811.33
+Comox Valley,Vancouver Island North,192842.657
+Comox Valley,Vancouver Island West,97812.942
+Comox Valley,Greater Campbell River,40302.716
+Comox Valley,Powell River,36652.3275
+Comox Valley,Sunshine Coast,95121.1839
+Comox Valley,Howe Sound,141963.003
+Comox Valley,West Vancouver/Bowen Island,133724.881
+Comox Valley,Alberni/Clayoquot,52157.9639
+Comox Valley,Oceanside,58842.2299
+Comox Valley,Greater Nanaimo,91545.2489
+Comox Valley,Vancouver - Westside,138958.437
+Comox Valley,Richmond,145776.82
+Comox Valley,Vancouver - City Centre,141323.409
+Comox Valley,Vancouver - South,146588.897
+Comox Valley,Vancouver - Midtown,144691.436
+Comox Valley,Vancouver - Centre North,144556.142
+Comox Valley,North Vancouver,144540.028
+Comox Valley,Vancouver - Northeast,147770.696
+Comox Valley,Burnaby,153230.047
+Comox Valley,New Westminster,158246.295
+Comox Valley,Surrey,167943.099
+Comox Valley,Tri-Cities,163617.513
+Comox Valley,Maple Ridge/Pitt Meadows,179521.474
+Comox Valley,Delta,158926.713
+Comox Valley,South Surrey/White Rock,173521.02
+Comox Valley,Langley,181973.907
+Comox Valley,Abbotsford,205622.653
+Comox Valley,Chilliwack,228125.024
+Comox Valley,Mission,202479.56
+Comox Valley,Agassiz/Harrison,232795.734
+Comox Valley,Hope,257325.473
+Comox Valley,Merritt,304565.172
+Comox Valley,South Cariboo,275398.662
+Comox Valley,Lillooet,231225.293
+Greater Campbell River,Cowichan Valley North,152900.149
+Greater Campbell River,Cowichan Valley West,154428.02
+Greater Campbell River,Cowichan Valley South,180574.724
+Greater Campbell River,Southern Gulf Islands,182835.476
+Greater Campbell River,Saanich Peninsula,206608.702
+Greater Campbell River,Greater Victoria,220833.586
+Greater Campbell River,Western Communities,213815.238
+Greater Campbell River,Bella Coola Valley,276094.908
+Greater Campbell River,Vancouver Island North,158193.017
+Greater Campbell River,Vancouver Island West,78559.3045
+Greater Campbell River,Comox Valley,40302.716
+Greater Campbell River,Powell River,55678.1158
+Greater Campbell River,Sunshine Coast,126291.617
+Greater Campbell River,Howe Sound,158798.314
+Greater Campbell River,West Vancouver/Bowen Island,164638.78
+Greater Campbell River,Alberni/Clayoquot,88808.2011
+Greater Campbell River,Oceanside,97936.3726
+Greater Campbell River,Greater Nanaimo,129493.759
+Greater Campbell River,Vancouver - Westside,171369.538
+Greater Campbell River,Richmond,179354.262
+Greater Campbell River,Vancouver - City Centre,173125.859
+Greater Campbell River,Vancouver - South,179077.462
+Greater Campbell River,Vancouver - Midtown,176747.981
+Greater Campbell River,Vancouver - Centre North,176144.774
+Greater Campbell River,North Vancouver,175159.097
+Greater Campbell River,Vancouver - Northeast,179556.722
+Greater Campbell River,Burnaby,184828.179
+Greater Campbell River,New Westminster,190137.479
+Greater Campbell River,Surrey,200158.158
+Greater Campbell River,Tri-Cities,194109.949
+Greater Campbell River,Maple Ridge/Pitt Meadows,209998.49
+Greater Campbell River,Delta,192352.178
+Greater Campbell River,South Surrey/White Rock,207087.68
+Greater Campbell River,Langley,213935.602
+Greater Campbell River,Abbotsford,237154.676
+Greater Campbell River,Chilliwack,257546.43
+Greater Campbell River,Mission,232698.829
+Greater Campbell River,Agassiz/Harrison,259951.587
+Greater Campbell River,Hope,282243.782
+Greater Campbell River,South Cariboo,282670.372
+Greater Campbell River,Lillooet,234345.512
+Vancouver Island West,Cowichan Valley North,203864.474
+Vancouver Island West,Cowichan Valley West,195502.854
+Vancouver Island West,Cowichan Valley South,227331.187
+Vancouver Island West,Southern Gulf Islands,235025.907
+Vancouver Island West,Saanich Peninsula,253095.851
+Vancouver Island West,Greater Victoria,264881.638
+Vancouver Island West,Western Communities,254488.387
+Vancouver Island West,Central Coast,302487.988
+Vancouver Island West,Bella Coola Valley,283170.585
+Vancouver Island West,Vancouver Island North,109620.514
+Vancouver Island West,Greater Campbell River,78559.3045
+Vancouver Island West,Comox Valley,97812.942
+Vancouver Island West,Powell River,128990.538
+Vancouver Island West,Sunshine Coast,192819.782
+Vancouver Island West,Howe Sound,235498.906
+Vancouver Island West,West Vancouver/Bowen Island,231297.794
+Vancouver Island West,Alberni/Clayoquot,116290.234
+Vancouver Island West,Oceanside,150892.531
+Vancouver Island West,Greater Nanaimo,184174.741
+Vancouver Island West,Vancouver - Westside,236015.735
+Vancouver Island West,Richmond,242149.683
+Vancouver Island West,Vancouver - City Centre,238603.247
+Vancouver Island West,Vancouver - South,243555.106
+Vancouver Island West,Vancouver - Midtown,241855.663
+Vancouver Island West,Vancouver - Centre North,241890.575
+Vancouver Island West,North Vancouver,242136.056
+Vancouver Island West,Vancouver - Northeast,245018.768
+Vancouver Island West,Burnaby,250515.281
+Vancouver Island West,New Westminster,255394.712
+Vancouver Island West,Surrey,264895.345
+Vancouver Island West,Tri-Cities,261178.922
+Vancouver Island West,Maple Ridge/Pitt Meadows,277038.97
+Vancouver Island West,Delta,255273.425
+Vancouver Island West,South Surrey/White Rock,269645.021
+Vancouver Island West,Langley,278965.295
+Vancouver Island West,Abbotsford,302696.937
+Vancouver Island West,Mission,300001.672
+Vancouver Island North,Cowichan Valley North,306126.395
+Vancouver Island North,Cowichan Valley West,301436.292
+Vancouver Island North,Central Coast,197059.867
+Vancouver Island North,Bella Coola Valley,205734.797
+Vancouver Island North,Vancouver Island West,109620.514
+Vancouver Island North,Greater Campbell River,158193.017
+Vancouver Island North,Comox Valley,192842.657
+Vancouver Island North,Powell River,213576.037
+Vancouver Island North,Sunshine Coast,284470.773
+Vancouver Island North,Alberni/Clayoquot,223468.378
+Vancouver Island North,Oceanside,251095.741
+Vancouver Island North,Greater Nanaimo,284241.206
+Haida Gwaii,Nisga'a,243957.631
+Haida Gwaii,Terrace,253553.874
+Haida Gwaii,Kitimat,226318.558
+Haida Gwaii,Prince Rupert,140962.966
+Haida Gwaii,Central Coast,299307.093
+Snow Country,Burns Lake,306290.165
+Snow Country,Telegraph Creek,215148.724
+Snow Country,Nisga'a,95794.0471
+Snow Country,Terrace,168692.128
+Snow Country,Smithers,212859.189
+Snow Country,Upper Skeena,146646.333
+Snow Country,Kitimat,220339.302
+Snow Country,Prince Rupert,193642.129
+Prince Rupert,Burns Lake,294843.606
+Prince Rupert,Nisga'a,107853.934
+Prince Rupert,Terrace,116494.055
+Prince Rupert,Smithers,215698.716
+Prince Rupert,Upper Skeena,196613.123
+Prince Rupert,Kitimat,107679.075
+Prince Rupert,Haida Gwaii,140962.966
+Prince Rupert,Snow Country,193642.129
+Prince Rupert,Central Coast,267296.339
+Upper Skeena,Burns Lake,159684.787
+Upper Skeena,Nisga'a,112069.34
+Upper Skeena,Terrace,90260.1748
+Upper Skeena,Smithers,68066.5609
+Upper Skeena,Kitimat,142734.505
+Upper Skeena,Prince Rupert,196613.123
+Upper Skeena,Snow Country,146646.333
+Upper Skeena,Nechako,245652.885
+Smithers,Burns Lake,95234.7817
+Smithers,Nisga'a,159705.394
+Smithers,Terrace,99439.4102
+Smithers,Upper Skeena,68066.5609
+Smithers,Kitimat,129155.708
+Smithers,Prince Rupert,215698.716
+Smithers,Snow Country,212859.189
+Smithers,Nechako,189191.762
+Smithers,Central Coast,276105.059
+Smithers,Bella Coola Valley,259399.811
+Smithers,Prince George,291086.26
+Kitimat,Burns Lake,192715.19
+Kitimat,Nisga'a,127133.045
+Kitimat,Terrace,57394.286
+Kitimat,Smithers,129155.708
+Kitimat,Upper Skeena,142734.505
+Kitimat,Haida Gwaii,226318.558
+Kitimat,Prince Rupert,107679.075
+Kitimat,Snow Country,220339.302
+Kitimat,Nechako,292291.01
+Kitimat,Central Coast,200515.117
+Kitimat,Bella Coola Valley,243744.452
+Stikine,Telegraph Creek,136250.113
+Terrace,Burns Lake,184402.324
+Terrace,Nisga'a,82545.5648
+Terrace,Smithers,99439.4102
+Terrace,Upper Skeena,90260.1748
+Terrace,Kitimat,57394.286
+Terrace,Haida Gwaii,253553.874
+Terrace,Prince Rupert,116494.055
+Terrace,Snow Country,168692.128
+Terrace,Nechako,283596.377
+Terrace,Central Coast,254945.06
+Terrace,Bella Coola Valley,283454.843
+Nisga'a,Burns Lake,253732.367
+Nisga'a,Terrace,82545.5648
+Nisga'a,Smithers,159705.394
+Nisga'a,Upper Skeena,112069.34
+Nisga'a,Kitimat,127133.045
+Nisga'a,Haida Gwaii,243957.631
+Nisga'a,Prince Rupert,107853.934
+Nisga'a,Snow Country,95794.0471
+Telegraph Creek,Snow Country,215148.724
+Telegraph Creek,Stikine,136250.113
+Quesnel,Burns Lake,256699.628
+Quesnel,Nechako,174903.431
+Quesnel,Bella Coola Valley,270012.939
+Quesnel,Prince George,109558.925
+Quesnel,South Cariboo,277401.345
+Quesnel,Lillooet,258005.945
+Quesnel,Cariboo/Chilcotin,96722.2318
+Quesnel,Kamloops,295132.61
+Quesnel,North Thompson,221174.041
+Quesnel,100 Mile House,170339.051
+Burns Lake,Nisga'a,253732.367
+Burns Lake,Terrace,184402.324
+Burns Lake,Smithers,95234.7817
+Burns Lake,Upper Skeena,159684.787
+Burns Lake,Kitimat,192715.19
+Burns Lake,Prince Rupert,294843.606
+Burns Lake,Snow Country,306290.165
+Burns Lake,Nechako,100143.453
+Burns Lake,Central Coast,268128.608
+Burns Lake,Bella Coola Valley,209746.509
+Burns Lake,Prince George,201892.493
+Burns Lake,Quesnel,256699.628
+Nechako,Burns Lake,100143.453
+Nechako,Terrace,283596.377
+Nechako,Smithers,189191.762
+Nechako,Upper Skeena,245652.885
+Nechako,Kitimat,292291.01
+Nechako,Bella Coola Valley,244776.401
+Nechako,Prince George,102255.819
+Nechako,Quesnel,174903.431
+Nechako,Peace River South,289580.481
+Nechako,Cariboo/Chilcotin,264483.225
+Prince George,Burns Lake,201892.493
+Prince George,Smithers,291086.26
+Prince George,Nechako,102255.819
+Prince George,Bella Coola Valley,301018.476
+Prince George,Quesnel,109558.925
+Prince George,Peace River North,286030.645
+Prince George,Peace River South,238164.139
+Prince George,Cariboo/Chilcotin,206045.665
+Prince George,100 Mile House,274378.426
+Peace River South,Nechako,289580.481
+Peace River South,Prince George,238164.139
+Peace River South,Peace River North,68882.3441
+Peace River North,Fort Nelson,306680.817
+Peace River North,Prince George,286030.645
+Peace River North,Peace River South,68882.3441
+Fort Nelson,Peace River North,306680.817
